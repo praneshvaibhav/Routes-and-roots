@@ -26,10 +26,9 @@
 
 ## 📸 Screenshots
 
-> Add your images to the `/screenshots/` folder and reference them like this:
+![Homepage](./screenshots/Screenshot(556).png)
 
-![Screenshot1](./screenshots/Screenshot(356).png)
-![Screenshot2](./screenshots/Screenshot(357).png)
+
 ---
 ## 📄 License
 
