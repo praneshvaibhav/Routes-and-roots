@@ -1,0 +1,61 @@
+.footer-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.copyright-2024-rootsroutes2 {
+  width: 705px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 113%;
+  z-index: 1;
+}
+.copyright-all-rights-reserved13 {
+  height: 44px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+  margin-left: -546px;
+}
+.copyright1,
+.footer3 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.copyright1 {
+  width: 645px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  margin-top: -68px;
+}
+.footer3 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  min-height: 499px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 900px) {
+  .copyright-2024-rootsroutes2 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .copyright-2024-rootsroutes2 {
+    font-size: var(--font-size-3xl);
+  }
+}

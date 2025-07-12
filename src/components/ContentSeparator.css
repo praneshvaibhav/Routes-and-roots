@@ -1,0 +1,59 @@
+.content-divider-icon1 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -3px;
+}
+.as-you-stroll {
+  margin: 0;
+}
+.the-taj-mahal-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.footer-description {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.content-separator,
+.divider-container,
+.footer-description {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.divider-container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+}
+.content-separator {
+  width: 1468px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}
+@media screen and (max-width: 900px) {
+  .divider-container {
+    gap: var(--gap-8xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .the-taj-mahal-container {
+    font-size: var(--font-size-lgi);
+  }
+}

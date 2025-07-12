@@ -1,0 +1,329 @@
+.facebook-icon9,
+.twitterx-icon7 {
+  height: 90px;
+  width: 90px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 10px;
+  left: 162px;
+  object-fit: cover;
+  z-index: 1;
+}
+.twitterx-icon7 {
+  bottom: 9px;
+  left: 324px;
+}
+.footer-links-item {
+  width: 1920px;
+  height: 499px;
+  position: relative;
+  background-color: var(--color-mediumorchid-200);
+  display: none;
+  max-width: 100%;
+}
+.about-us24 {
+  flex-shrink: 0;
+}
+.about-us24,
+.faqs17 {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  z-index: 4;
+}
+.about-us25,
+.about-us26 {
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.about-us26 {
+  width: 262px;
+}
+.terms-condition17 {
+  width: 354px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.about-us-links-wrapper,
+.about-us-links2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.about-us-links2 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.about-us-links-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.privacy-policy17 {
+  width: 275px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.complain-privacy {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.connect-with-us18 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.connect-with-us-title {
+  width: 361px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.facebook-icon10 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.facebook-link,
+.twitter-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-lgi) 0 0;
+}
+.twitter-link {
+  padding: var(--padding-3xs) 0 0;
+}
+.instagram-icon18 {
+  height: 109px;
+  width: 96px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.social-media-links {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.connect-with-us17 {
+  width: 401px;
+  gap: var(--gap-mid);
+  max-width: 100%;
+}
+.careers18,
+.complain-policy-parent,
+.connect-with-us17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.complain-policy-parent {
+  width: 695px;
+  gap: var(--gap-48xl);
+  max-width: 100%;
+}
+.careers18 {
+  width: 320px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.help-center17 {
+  width: 269px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.footer-links3,
+.frame-parent88 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent88 {
+  width: 1674px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xl);
+}
+.footer-links3 {
+  flex: 1;
+  background-color: var(--color-mediumorchid-200);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-56xl) 0 0 var(--padding-143xl);
+  gap: var(--gap-53xl);
+  z-index: 3;
+}
+.footer-content3,
+.social-media-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.social-media-icons {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+}
+.footer-content3 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+}
+.copyright-2024-rootsroutes8,
+.copyright-2024-rootsroutes9 {
+  width: 705px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 116%;
+  z-index: 1;
+}
+.copyright-2024-rootsroutes9 {
+  max-width: 100%;
+  z-index: 4;
+}
+.copyright-all-rights-reserved19 {
+  height: 44px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  z-index: 5;
+  margin-left: -546px;
+}
+.copyright-info1 {
+  width: 705px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  max-width: 116%;
+  margin-left: -705px;
+}
+.copyright2,
+.footer-content-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.copyright2 {
+  width: 631px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  margin-top: -68px;
+}
+.footer-content-parent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  min-height: 499px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1525px) {
+  .about-us-links2,
+  .frame-parent88 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .footer-links3 {
+    gap: var(--gap-17xl);
+    padding-left: var(--padding-62xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .about-us24,
+  .faqs17,
+  .privacy-policy17,
+  .terms-condition17 {
+    font-size: var(--font-size-10xl);
+  }
+  .complain-privacy {
+    flex-wrap: wrap;
+  }
+  .connect-with-us18 {
+    font-size: var(--font-size-10xl);
+  }
+  .complain-policy-parent {
+    gap: var(--gap-14xl);
+  }
+  .help-center17 {
+    font-size: var(--font-size-10xl);
+  }
+  .footer-links3 {
+    gap: var(--gap-lg);
+    padding-left: var(--padding-21xl);
+    padding-top: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .copyright-2024-rootsroutes8,
+  .copyright-2024-rootsroutes9 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us24,
+  .connect-with-us18,
+  .faqs17,
+  .privacy-policy17,
+  .terms-condition17 {
+    font-size: var(--font-size-3xl);
+  }
+  .social-media-links {
+    flex-wrap: wrap;
+  }
+  .complain-policy-parent {
+    gap: var(--gap-mid);
+  }
+  .copyright-2024-rootsroutes8,
+  .copyright-2024-rootsroutes9,
+  .help-center17 {
+    font-size: var(--font-size-3xl);
+  }
+}

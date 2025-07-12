@@ -1,0 +1,639 @@
+.expand-arrow-icon10 {
+  height: 48px;
+  width: 52px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.expand-arrow-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs);
+}
+.multiplication-icon12 {
+  height: 70px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 2;
+}
+.multiplication-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-58xl);
+}
+.login-form-child {
+  width: 1049px;
+  height: 771px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-700);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.arrow-icon1 {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  margin: 0 !important;
+  right: 420px;
+  bottom: 280px;
+  object-fit: cover;
+  z-index: 5;
+}
+.frame-child78 {
+  width: 317px;
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 4;
+}
+.sign-in-label-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xl) 0 0;
+  box-sizing: border-box;
+  min-width: 235px;
+  max-width: 100%;
+}
+.sign-in15 {
+  width: 255px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+  margin: 0 0 0-19px;
+}
+.frame-child79 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 5;
+}
+.form-fields,
+.sign-in-label,
+.sign-in-label-child {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-in-label-child {
+  width: 315px;
+  flex-direction: column;
+  padding: var(--padding-7xl) 0 0;
+  box-sizing: border-box;
+  margin-left: -19px;
+}
+.form-fields,
+.sign-in-label {
+  flex-direction: row;
+  max-width: 100%;
+}
+.sign-in-label {
+  flex: 1;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  row-gap: 20px;
+}
+.form-fields {
+  width: 938px;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.e-mail-1 {
+  height: 76px;
+  width: 296px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.email-input-container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.span23 {
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-jejugothic);
+}
+.password-1 {
+  width: 342px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.password-field {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-mini) var(--padding-11xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.seller-button-background {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-mistyrose);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 375px;
+  z-index: 4;
+}
+.become-seller1 {
+  position: absolute;
+  top: 5px;
+  left: 46px;
+  display: inline-block;
+  width: 357px;
+  height: 52px;
+  cursor: pointer;
+  z-index: 5;
+}
+.seller-button {
+  align-self: stretch;
+  height: 78px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+}
+.email-content {
+  width: 403px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  min-width: 403px;
+  max-width: 100%;
+}
+.user-email-child {
+  height: 73px;
+  width: 526px;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.james6754gmailcom1 {
+  width: 396px;
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 6;
+}
+.user-email {
+  align-self: stretch;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-28xl) var(--padding-lgi);
+  max-width: 100%;
+  z-index: 5;
+}
+.input1 {
+  width: 259px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-kaisei-opti);
+  font-size: var(--font-size-5xl);
+  background-color: transparent;
+  height: 36px;
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 6;
+}
+.user-content,
+.user-email1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.user-email1 {
+  align-self: stretch;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: var(--padding-mid) var(--padding-38xl) var(--padding-sm);
+  z-index: 5;
+}
+.user-content {
+  width: 526px;
+  flex-direction: column;
+  gap: var(--gap-2xl);
+}
+.forgot-password-content-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-red-100);
+  z-index: 4;
+}
+.forgot-password-content {
+  height: 78px;
+  width: 167px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.forgot-password,
+.frame-child80 {
+  position: relative;
+  z-index: 4;
+}
+.frame-child80 {
+  height: 2px;
+  flex: 1;
+  border-top: 2px solid var(--color-blue-100);
+  box-sizing: border-box;
+}
+.forgot-password-parent,
+.line-wrapper10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.line-wrapper10 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.forgot-password-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-10xs);
+  min-width: 210px;
+  max-width: 100%;
+}
+.forgot-password-link,
+.forgot-password-link-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.forgot-password-link {
+  width: 533px;
+  justify-content: flex-start;
+  gap: var(--gap-24xl);
+}
+.forgot-password-link-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  font-size: var(--font-size-21xl);
+  color: var(--color-blue-200);
+}
+.email-input,
+.user-field {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.user-field {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-35xl);
+  min-width: 381px;
+  margin-left: -28px;
+  font-size: var(--font-size-5xl);
+}
+.email-input {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  row-gap: 20px;
+}
+.button-separator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 4;
+}
+.facebook-icon15 {
+  width: 203px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) 0 0;
+  box-sizing: border-box;
+}
+.through-others {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.option-separator {
+  height: 2px;
+  width: 205px;
+  position: absolute;
+  margin: 0 !important;
+  right: -188px;
+  bottom: 36px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 5;
+}
+.other-options {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+  min-width: 330px;
+}
+.facebook-button,
+.other-options,
+.social-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.facebook-button {
+  flex: 1;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: var(--gap-sm);
+}
+.social-buttons {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.facebook-icon16,
+.google-plus-icon {
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.facebook-icon16 {
+  height: 108px;
+  width: 182px;
+}
+.google-plus-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.google-button,
+.twitter-button {
+  height: 100px;
+  width: 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-13xl) var(--padding-7xs) 0;
+  box-sizing: border-box;
+}
+.twitter-button {
+  height: 92px;
+  width: 95px;
+  padding: 0 0 var(--padding-base);
+}
+.social-icons3 {
+  width: 629px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.social-login,
+.social-options {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.social-options {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-4xs);
+}
+.social-login {
+  width: 774px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-jejugothic);
+}
+.email-field,
+.login-form {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.email-field {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+  max-width: 100%;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-kaisei-opti);
+}
+.login-form {
+  width: 1049px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-700);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  padding: var(--padding-34xl) var(--padding-lg) var(--padding-30xl)
+    var(--padding-45xl);
+  position: relative;
+  gap: var(--gap-15xl);
+  z-index: 3;
+}
+.login-form,
+.login-form-wrapper,
+.navigation-controls1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.login-form-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.navigation-controls1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.navigation7 {
+  width: 1537px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-16xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.left-content-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-jejugothic);
+}
+@media screen and (max-width: 1275px) {
+  .email-content {
+    flex: 1;
+  }
+  .email-input {
+    flex-wrap: wrap;
+  }
+  .login-form {
+    padding-left: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .sign-in15 {
+    font-size: var(--font-size-32xl);
+  }
+  .e-mail-1,
+  .password-1 {
+    font-size: var(--font-size-19xl);
+  }
+  .become-seller1 {
+    font-size: var(--font-size-10xl);
+  }
+  .email-content {
+    min-width: 100%;
+  }
+  .user-email {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .forgot-password {
+    font-size: var(--font-size-13xl);
+  }
+  .forgot-password-link {
+    gap: var(--gap-2xl);
+    flex-wrap: wrap;
+  }
+  .user-field {
+    gap: var(--gap-8xl);
+    min-width: 100%;
+    margin-left: 0;
+  }
+  .through-others {
+    font-size: var(--font-size-32xl);
+  }
+  .social-icons3 {
+    flex-wrap: wrap;
+  }
+  .email-field {
+    gap: var(--gap-4xl);
+  }
+  .login-form {
+    gap: var(--gap-mid);
+    padding-top: var(--padding-15xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-in15 {
+    font-size: var(--font-size-19xl);
+  }
+  .e-mail-1,
+  .password-1 {
+    font-size: var(--font-size-10xl);
+  }
+  .become-seller1 {
+    font-size: var(--font-size-3xl);
+  }
+  .input1,
+  .james6754gmailcom1 {
+    font-size: var(--font-size-lgi);
+  }
+  .user-email1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .forgot-password {
+    font-size: var(--font-size-5xl);
+  }
+  .through-others {
+    font-size: var(--font-size-19xl);
+  }
+  .login-form {
+    padding-top: var(--padding-3xl);
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}

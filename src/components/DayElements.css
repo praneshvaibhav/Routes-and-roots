@@ -1,0 +1,140 @@
+.day-elements-child {
+  width: 236px;
+  height: 245px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  z-index: 1;
+}
+.date1 {
+  height: 103px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.date-container1 {
+  width: 175px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-25xl);
+  box-sizing: border-box;
+}
+.thursday {
+  width: 177.2px;
+  height: 34px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.festival-container-child {
+  height: 1px;
+  width: 137px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.festival-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi);
+}
+.kottiyoor-utsavam {
+  height: 46px;
+  flex: 1;
+  position: relative;
+  line-height: 23.2px;
+  display: inline-block;
+  z-index: 1;
+}
+.festival-names {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  z-index: 2;
+}
+.kottiyoor-utsavam-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.day-info,
+.festival-name-container1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.festival-name-container1 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-6xs);
+  font-size: var(--font-size-xl);
+}
+.day-info {
+  flex-direction: column;
+  gap: var(--gap-xl);
+  margin-top: -12px;
+  font-size: var(--font-size-17xl);
+}
+.day-elements-item {
+  width: 137px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 91px;
+  left: 42px;
+  object-fit: contain;
+  z-index: 2;
+}
+.day-elements1 {
+  align-self: stretch;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-3xl) var(--padding-5xl)
+    var(--padding-4xl);
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 925px) {
+  .date1 {
+    font-size: var(--font-size-32xl);
+  }
+  .thursday {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .date1 {
+    font-size: var(--font-size-19xl);
+  }
+  .thursday {
+    font-size: var(--font-size-3xl);
+  }
+  .festival-names,
+  .kottiyoor-utsavam {
+    font-size: var(--font-size-base);
+  }
+}

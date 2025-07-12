@@ -1,0 +1,312 @@
+.footer-content-item {
+  width: 1920px;
+  height: 499px;
+  position: relative;
+  background-color: var(--color-mediumorchid-200);
+  display: none;
+  max-width: 100%;
+}
+.about-us21 {
+  text-decoration: none;
+  color: inherit;
+  flex-shrink: 0;
+}
+.about-us21,
+.faqs15 {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.link-categories {
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.e-visa15 {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.link-categories1 {
+  width: 262px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.terms-condition15 {
+  width: 354px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer-links2,
+.links-and-socials {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-links2 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.links-and-socials {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.complain17,
+.privacy-policy15 {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.privacy-policy15 {
+  width: 275px;
+}
+.connect-options {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.connect-with-us15 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.platform-icons {
+  width: 361px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.facebook-icon7 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+}
+.facebook-icon6,
+.twitter-icon1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-lgi) 0 0;
+}
+.twitter-icon1 {
+  padding: var(--padding-3xs) 0 0;
+}
+.instagram-icon16 {
+  height: 109px;
+  width: 96px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+}
+.facebook-icon-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.social-icons2,
+.social-links {
+  width: 401px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  max-width: 100%;
+}
+.social-links {
+  width: 695px;
+  gap: var(--gap-48xl);
+}
+.careers16 {
+  text-decoration: none;
+  width: 175px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.careers15 {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.help-center15 {
+  width: 269px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.footer-content2,
+.social-and-help {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.social-and-help {
+  width: 1654px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.footer-content2 {
+  align-self: stretch;
+  background-color: var(--color-mediumorchid-200);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-53xl) var(--padding-14xl) 0 var(--padding-129xl);
+  box-sizing: border-box;
+  gap: var(--gap-53xl);
+}
+.copyright-2024-rootsroutes6 {
+  width: 705px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 113%;
+  z-index: 1;
+}
+.copyright-all-rights-reserved17 {
+  height: 44px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+  margin-left: -546px;
+}
+.copyright-2024-rootsroutes-parent1,
+.footer5 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.copyright-2024-rootsroutes-parent1 {
+  width: 645px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  margin-top: -68px;
+}
+.footer5 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  min-height: 496px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1625px) {
+  .social-and-help {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .footer-links2 {
+    flex-wrap: wrap;
+  }
+  .footer-content2 {
+    gap: var(--gap-17xl);
+    padding-left: var(--padding-55xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us21,
+  .complain17,
+  .e-visa15,
+  .faqs15,
+  .privacy-policy15,
+  .terms-condition15 {
+    font-size: var(--font-size-10xl);
+  }
+  .connect-options {
+    flex-wrap: wrap;
+  }
+  .connect-with-us15 {
+    font-size: var(--font-size-10xl);
+  }
+  .social-links {
+    gap: var(--gap-14xl);
+  }
+  .careers16,
+  .help-center15 {
+    font-size: var(--font-size-10xl);
+  }
+  .footer-content2 {
+    gap: var(--gap-lg);
+    padding-left: var(--padding-18xl);
+    padding-top: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .copyright-2024-rootsroutes6 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us21,
+  .complain17,
+  .connect-with-us15,
+  .e-visa15,
+  .faqs15,
+  .privacy-policy15,
+  .terms-condition15 {
+    font-size: var(--font-size-3xl);
+  }
+  .facebook-icon-parent {
+    flex-wrap: wrap;
+  }
+  .social-links {
+    gap: var(--gap-mid);
+  }
+  .careers16,
+  .copyright-2024-rootsroutes6,
+  .help-center15 {
+    font-size: var(--font-size-3xl);
+  }
+}

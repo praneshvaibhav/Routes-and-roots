@@ -1,0 +1,223 @@
+.divider-icon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -3px;
+}
+.divider-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heritage-icons-child2 {
+  width: calc(100% - 12px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 12px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.spritiual-1-icon4 {
+  align-self: stretch;
+  height: 231px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.spiritual7 {
+  width: 192px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.inner-peace-arises7 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  font-family: var(--font-hind-vadodara);
+  z-index: 1;
+}
+.heritage-icons5,
+.spiritual-parent5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.spiritual-parent5 {
+  width: 276px;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+}
+.heritage-icons5 {
+  flex: 1;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-lg) var(--padding-50xl)
+    var(--padding-6xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-3xs);
+  min-width: 213px;
+  max-width: 100%;
+}
+.heritage-icons-child3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.museum-mobile-414x233-1-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.museums9 {
+  width: 207px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.heritage-icons6,
+.museums-parent5 {
+  width: 281px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.heritage-icons6 {
+  height: 509px;
+  width: 315px;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-sm) var(--padding-86xl)
+    var(--padding-xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.heritage-categories1 {
+  width: 1724px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+  max-width: 100%;
+}
+.separator2 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-77xl-9);
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+.content7,
+.separator2,
+.testimonial2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.testimonial2 {
+  width: 1750px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-66xl);
+}
+.content7 {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-61xl) var(--padding-217xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1625px) {
+  .heritage-categories1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .content7 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    padding-bottom: var(--padding-134xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .spiritual7 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-icons5 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .museums9 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-icons6 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .separator2 {
+    gap: var(--gap-29xl);
+  }
+  .testimonial2 {
+    gap: var(--gap-23xl);
+  }
+  .content7 {
+    padding-bottom: var(--padding-80xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .inner-peace-arises7,
+  .museums9,
+  .spiritual7 {
+    font-size: var(--font-size-lgi);
+  }
+  .separator2 {
+    gap: var(--gap-5xl);
+  }
+  .testimonial2 {
+    gap: var(--gap-2xl);
+  }
+  .content7 {
+    padding-bottom: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+}

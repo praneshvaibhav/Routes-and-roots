@@ -1,0 +1,71 @@
+.copyright-2024-rootsroutes10,
+.copyright-2024-rootsroutes11 {
+  width: 705px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 114%;
+  z-index: 1;
+}
+.copyright-2024-rootsroutes11 {
+  max-width: 100%;
+  z-index: 4;
+}
+.copyright-all-rights-reserved20 {
+  height: 44px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  z-index: 5;
+  margin-left: -546px;
+}
+.copyright-2024-rootsroutes-parent4 {
+  width: 705px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  max-width: 114%;
+  margin-left: -705px;
+}
+.copyright-2024-rootsroutes-parent3,
+.frame-parent93 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.copyright-2024-rootsroutes-parent3 {
+  width: 639px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  margin-top: -68px;
+}
+.frame-parent93 {
+  position: absolute;
+  top: 2867px;
+  left: 0;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-end;
+  min-height: 499px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 900px) {
+  .copyright-2024-rootsroutes10,
+  .copyright-2024-rootsroutes11 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .copyright-2024-rootsroutes10,
+  .copyright-2024-rootsroutes11 {
+    font-size: var(--font-size-3xl);
+  }
+}

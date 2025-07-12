@@ -1,0 +1,61 @@
+.map-container-child {
+  height: 92px;
+  width: 174px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.map1 {
+  width: 134px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  font-family: var(--font-jost);
+  color: var(--color-black);
+  text-align: left;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.map-container {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: var(--padding-2xs) var(--padding-8xs) var(--padding-10xs)
+    var(--padding-10xl);
+  background-color: var(--color-gray-200);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.map-container:hover {
+  background-color: var(--color-gainsboro-100);
+  border: 3px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.address-icon1 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  object-fit: cover;
+}
+.map-container-parent {
+  width: 279px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+@media screen and (max-width: 850px) {
+  .map1 {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .map1 {
+    font-size: var(--font-size-10xl);
+  }
+}

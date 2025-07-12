@@ -1,0 +1,51 @@
+.screenshot-352-ai-brush-remo-icon8 {
+  position: absolute;
+  top: -66px;
+  left: -235px;
+  width: 815px;
+  height: 448px;
+  object-fit: cover;
+  z-index: 3;
+}
+.destination-image-container {
+  height: 382px;
+  width: 580px;
+  position: absolute;
+  margin: 0 !important;
+  top: -329px;
+  left: -89px;
+}
+.never-stop3 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.destination-header {
+  width: 613px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 900px) {
+  .never-stop3 {
+    font-size: var(--font-size-29xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .never-stop3 {
+    font-size: var(--font-size-10xl);
+  }
+}

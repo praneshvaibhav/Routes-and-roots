@@ -1,0 +1,228 @@
+.home4 {
+  text-decoration: none;
+  position: relative;
+  line-height: 41px;
+  color: inherit;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 4;
+}
+.expand-arrow-icon5 {
+  height: 48px;
+  width: 52px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -41px;
+  left: calc(50% - 26px);
+  object-fit: cover;
+  z-index: 5;
+}
+.home-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  color: var(--color-mediumorchid-200);
+}
+.about-us20 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  z-index: 4;
+}
+.name-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+}
+.destnations5,
+.shop5 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  min-width: 91px;
+}
+.destnations5 {
+  flex: 1;
+  min-width: 148px;
+}
+.frame-parent75 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  min-width: 458px;
+  max-width: 100%;
+}
+.culture-calender5 {
+  width: 307px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-parent74 {
+  width: 1049px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.items-container-child {
+  height: 48px;
+  width: 270px;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  flex-shrink: 0;
+  display: none;
+}
+.items6 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 102px;
+  z-index: 1;
+}
+.frame-child54 {
+  width: 1px;
+  height: 49px;
+  position: relative;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.items-container-inner {
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.rs005 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 76px;
+  z-index: 1;
+}
+.rs00-wrapper1 {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  color: var(--color-mediumorchid-200);
+}
+.items-container,
+.items-container-wrapper,
+.rs00-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.items-container {
+  background-color: var(--color-gainsboro-300);
+  overflow-x: auto;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs) 0 var(--padding-52xl);
+}
+.items-container-wrapper {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  color: var(--color-black);
+}
+.frame-parent73 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-parent72,
+.frame-wrapper23 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper23 {
+  width: 1573px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-jost);
+}
+.frame-parent72 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-39xl);
+  gap: var(--gap-36xl);
+  min-height: 272px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+@media screen and (max-width: 1625px) {
+  .frame-parent73 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .frame-parent74 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us20,
+  .destnations5,
+  .shop5 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent75 {
+    gap: var(--gap-lgi);
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .culture-calender5 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent74 {
+    gap: var(--gap-lgi);
+  }
+  .items6,
+  .rs005 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent72 {
+    gap: var(--gap-8xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us20,
+  .culture-calender5,
+  .destnations5,
+  .items6,
+  .rs005,
+  .shop5 {
+    font-size: var(--font-size-lgi);
+  }
+  .items-container {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

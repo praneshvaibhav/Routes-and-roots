@@ -1,0 +1,112 @@
+.date3,
+.frame-child88 {
+  position: relative;
+  z-index: 1;
+}
+.frame-child88 {
+  width: 236px;
+  height: 245px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.date3 {
+  height: 103px;
+  flex: 1;
+  display: inline-block;
+}
+.day-details4 {
+  width: 161px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+}
+.tuesday6 {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.day-name-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl) var(--padding-8xs);
+  margin-top: -12px;
+  font-size: var(--font-size-17xl);
+}
+.frame-child89 {
+  height: 1px;
+  width: 137px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.line-wrapper12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+}
+.onam1 {
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-parent106,
+.rectangle-parent48 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent106 {
+  align-self: stretch;
+  gap: var(--gap-lgi);
+  margin-top: -12px;
+  font-size: var(--font-size-xl);
+}
+.rectangle-parent48 {
+  width: 236px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  padding: var(--padding-8xs) var(--padding-4xl) var(--padding-5xl)
+    var(--padding-10xl);
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 925px) {
+  .date3 {
+    font-size: var(--font-size-32xl);
+  }
+  .tuesday6 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .date3 {
+    font-size: var(--font-size-19xl);
+  }
+  .tuesday6 {
+    font-size: var(--font-size-3xl);
+  }
+  .onam1 {
+    font-size: var(--font-size-base);
+  }
+}

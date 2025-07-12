@@ -1,0 +1,105 @@
+.p1 {
+  margin: 0;
+}
+.e-visa-facility1 {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+}
+.e-visa-facility {
+  height: 37px;
+  width: 376px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.e-visa-facility-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.e-visa-facility-is {
+  align-self: stretch;
+  position: relative;
+}
+.evisa-title {
+  width: 979px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl-3);
+  max-width: 100%;
+}
+.multiplication-icon7 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.multiplication-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-3) 0 0;
+}
+.evisa-description,
+.evisa-description-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.evisa-description {
+  width: 1268px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.evisa-description-wrapper {
+  width: 1500px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
+.info-sign-in-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xl-7);
+  flex-shrink: 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+@media screen and (max-width: 1225px) {
+  .evisa-description {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 850px) {
+  .e-visa-facility,
+  .e-visa-facility-is {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .e-visa-facility,
+  .e-visa-facility-is {
+    font-size: var(--font-size-lgi);
+  }
+}

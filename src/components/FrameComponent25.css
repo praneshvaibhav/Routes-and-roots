@@ -1,0 +1,436 @@
+.placeholder11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  width: 100%;
+  height: 100%;
+}
+.placeholder-wrapper3 {
+  height: 79px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.frame-wrapper31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 69px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.email-icon6,
+.phone-icon6 {
+  position: absolute;
+  object-fit: cover;
+  z-index: 1;
+}
+.email-icon6 {
+  height: 34px;
+  width: 68px;
+  margin: 0 !important;
+  top: 2px;
+  left: 0;
+}
+.phone-icon6 {
+  top: 1px;
+  left: 1px;
+  width: 30px;
+  height: 31px;
+  display: none;
+}
+.indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-500);
+  border: 0 solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.culture-link,
+.url {
+  position: relative;
+  z-index: 1;
+}
+.culture-link {
+  height: 32px;
+  width: 32px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.url {
+  text-decoration: none;
+  color: inherit;
+  white-space: nowrap;
+}
+.about-link,
+.domain,
+.shop-link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.domain {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.about-link,
+.shop-link {
+  flex-direction: row;
+}
+.shop-link {
+  gap: var(--gap-8xs);
+}
+.about-link {
+  padding: 0 var(--padding-29xl);
+}
+.home6 {
+  position: relative;
+  color: var(--color-black);
+  display: inline-block;
+  min-width: 96px;
+  cursor: pointer;
+}
+.about-us28 {
+  text-decoration: none;
+  position: relative;
+  line-height: 41px;
+  color: inherit;
+}
+.expand-arrow-icon6 {
+  height: 48px;
+  width: 52px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -41px;
+  left: 44px;
+  object-fit: cover;
+  z-index: 1;
+}
+.about-us-link-wrapper,
+.about-us-link1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-link1 {
+  flex-direction: row;
+  position: relative;
+}
+.about-us-link-wrapper {
+  flex-direction: column;
+  padding: 0 var(--padding-2xs) 0 0;
+  color: var(--color-mediumorchid-200);
+}
+.shop7 {
+  position: relative;
+  display: inline-block;
+  min-width: 91px;
+  cursor: pointer;
+}
+.shop-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+}
+.destnations7 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 148px;
+}
+.navigation-links3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  min-width: 458px;
+  max-width: 100%;
+}
+.culture-calender7 {
+  width: 307px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.navigation-links-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-jost);
+}
+.destination-link,
+.home-link1,
+.navigation-links-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.destination-link {
+  width: 1049px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-64xl);
+}
+.home-link1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.inforootsroutescom6 {
+  position: relative;
+  z-index: 1;
+  margin-top: -159px;
+}
+.top-nav,
+.top-nav-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.top-nav {
+  align-self: stretch;
+  justify-content: flex-start;
+  min-height: 162px;
+}
+.top-nav-wrapper {
+  width: 1350px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.earth-globe-icon6 {
+  height: 34px;
+  width: 48px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.eng6 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  color: inherit;
+  cursor: pointer;
+  z-index: 1;
+}
+.earth-globe-container,
+.language-code {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.language-code {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+  margin-left: -6px;
+}
+.earth-globe-container {
+  width: 88px;
+  flex-direction: row;
+}
+.user-icon6 {
+  height: 30px;
+  width: 36px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.sign-in-wrapper1,
+.user-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-in-wrapper1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.user-parent1 {
+  width: 119px;
+  flex-direction: row;
+  gap: var(--gap-11xs);
+}
+.language-options {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.cart-details-child {
+  height: 48px;
+  width: 270px;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  flex-shrink: 0;
+  display: none;
+}
+.items7 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 102px;
+  z-index: 1;
+}
+.separator-child {
+  width: 1px;
+  height: 49px;
+  position: relative;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.separator {
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.rs007 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 76px;
+  z-index: 1;
+}
+.rs00-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  color: var(--color-mediumorchid-200);
+}
+.cart-details,
+.cart-details-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.cart-details {
+  background-color: var(--color-gainsboro-300);
+  overflow-x: auto;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 var(--padding-52xl);
+}
+.cart-details-wrapper {
+  justify-content: flex-end;
+  padding: 0 var(--padding-6xs) 0 var(--padding-sm);
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
+.email-parent2,
+.language-options-parent {
+  width: 291px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-65xl);
+}
+.email-parent2 {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 1905px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 var(--padding-14xl) var(--padding-49xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.frame-parent94 {
+  align-self: stretch;
+  height: 214px;
+  position: relative;
+  max-width: 100%;
+}
+@media screen and (max-width: 1725px) {
+  .email-parent2 {
+    flex-wrap: wrap;
+  }
+  .frame-parent94 {
+    height: auto;
+    min-height: 214;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .navigation-links-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us28 {
+    line-height: 33px;
+  }
+  .about-us28,
+  .destnations7,
+  .shop7 {
+    font-size: var(--font-size-7xl);
+  }
+  .navigation-links3 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .culture-calender7,
+  .items7,
+  .rs007 {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .url {
+    font-size: var(--font-size-base);
+  }
+  .about-us28 {
+    line-height: 25px;
+  }
+  .about-us28,
+  .culture-calender7,
+  .destnations7,
+  .shop7 {
+    font-size: var(--font-size-lgi);
+  }
+  .eng6,
+  .inforootsroutescom6 {
+    font-size: var(--font-size-base);
+  }
+  .items7,
+  .rs007 {
+    font-size: var(--font-size-lgi);
+  }
+}

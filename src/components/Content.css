@@ -1,0 +1,253 @@
+.screenshot-352-ai-brush-remo-icon15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 3;
+}
+.exploration,
+.imagecontainer {
+  position: absolute;
+  top: -66px;
+  left: -235px;
+  width: 815px;
+  height: 448px;
+}
+.exploration {
+  height: 382px;
+  width: 580px;
+  margin: 0 !important;
+  top: -272px;
+  left: 0;
+}
+.description-child {
+  width: 1920px;
+  height: 1104px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-1300);
+  display: none;
+  max-width: 100%;
+}
+.never-stop6 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 92px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 5;
+}
+.slogan {
+  width: 627px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.exploring3 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-109xl);
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 5;
+}
+.quote {
+  width: 669px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+  max-width: 100%;
+}
+.kerela-tradition-13 {
+  height: 445px;
+  width: 915px;
+  position: absolute;
+  margin: 0 !important;
+  top: -255px;
+  right: -88px;
+  object-fit: cover;
+  z-index: 5;
+}
+.indias-rich-culture3 {
+  margin: 0;
+}
+.indias-rich-culture-container3 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 6;
+}
+.tradition1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.link-child {
+  height: 2px;
+  flex: 1;
+  position: relative;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 5;
+}
+.link {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-6xs);
+}
+.clickarea {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gray-1300);
+  border: 2px solid var(--color-snow-600);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 5;
+}
+.visit-now25 {
+  position: absolute;
+  top: 4px;
+  left: 38px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  font-family: var(--font-jost);
+  color: var(--color-white);
+  text-align: left;
+  width: 164px;
+  height: 52px;
+  z-index: 6;
+}
+.action2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 275px;
+  height: 68px;
+  position: relative;
+  white-space: nowrap;
+}
+.button5 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-29xl);
+}
+.button5,
+.cta,
+.kerela {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cta {
+  width: 320px;
+  flex-direction: row;
+  padding: 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.kerela {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+}
+.travelinspiration {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-7xs) 0 var(--padding-8xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-17xl);
+}
+.content5,
+.description,
+.travelinspiration {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.description {
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-1300);
+  flex-direction: column;
+  padding: var(--padding-38xl) var(--padding-63xl) var(--padding-249xl);
+  box-sizing: border-box;
+  gap: var(--gap-mid);
+  z-index: 4;
+}
+.content5 {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 1275px) {
+  .description {
+    padding: var(--padding-18xl) var(--padding-22xl) var(--padding-155xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .never-stop6 {
+    font-size: var(--font-size-29xl);
+    line-height: 55px;
+  }
+  .exploring3 {
+    font-size: var(--font-size-32xl);
+  }
+  .indias-rich-culture-container3 {
+    font-size: var(--font-size-10xl);
+  }
+  .kerela {
+    gap: var(--gap-3xl);
+  }
+  .description {
+    padding-top: var(--padding-5xl);
+    padding-bottom: var(--padding-94xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .never-stop6 {
+    font-size: var(--font-size-10xl);
+    line-height: 37px;
+  }
+  .exploring3 {
+    font-size: var(--font-size-13xl);
+  }
+  .indias-rich-culture-container3 {
+    font-size: var(--font-size-3xl);
+  }
+  .button5 {
+    gap: var(--gap-5xl);
+  }
+}

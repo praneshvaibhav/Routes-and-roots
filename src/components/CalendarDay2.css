@@ -1,0 +1,143 @@
+.day-details-child {
+  width: 236px;
+  height: 245px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  z-index: 1;
+}
+.date2 {
+  height: 103px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 6;
+}
+.day-elements2 {
+  width: 161px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+}
+.day-details-item {
+  width: 137px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 91px;
+  left: 42px;
+  object-fit: contain;
+  z-index: 6;
+}
+.sunday51,
+.sunday52 {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 7;
+}
+.sunday52 {
+  z-index: 8;
+  margin-left: -177px;
+}
+.weekday-box,
+.weekday-container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.weekday-box {
+  flex: 1;
+}
+.weekday-container1 {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.festival-container-inner {
+  height: 1px;
+  width: 137px;
+  position: relative;
+  object-fit: contain;
+  z-index: 7;
+}
+.festival-container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+}
+.sri-narayan-jayanti {
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 23.2px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 6;
+}
+.day-info2 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  margin-top: -12px;
+  font-size: var(--font-size-17xl);
+}
+.calendar-day4,
+.day-details3,
+.day-info2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.day-details3 {
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  flex-direction: column;
+  padding: var(--padding-8xs) var(--padding-4xl) var(--padding-5xl)
+    var(--padding-10xl);
+  position: relative;
+  z-index: 5;
+}
+.calendar-day4 {
+  width: 238px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) var(--padding-7xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 925px) {
+  .date2 {
+    font-size: var(--font-size-32xl);
+  }
+  .sunday51,
+  .sunday52 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .date2 {
+    font-size: var(--font-size-19xl);
+  }
+  .sunday51,
+  .sunday52 {
+    font-size: var(--font-size-3xl);
+  }
+  .sri-narayan-jayanti {
+    font-size: var(--font-size-base);
+  }
+}
