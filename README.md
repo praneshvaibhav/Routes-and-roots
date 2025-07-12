@@ -40,5 +40,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/pranesh-vaibhav-bb887a292/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/praneshvaibhav/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/PraneshVaibhav)
+
 
 
