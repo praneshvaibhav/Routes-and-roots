@@ -1,0 +1,23 @@
+.desktop-tajmahal {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 148px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .desktop-tajmahal {
+    gap: var(--gap-55xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .desktop-tajmahal {
+    gap: var(--gap-18xl);
+  }
+}

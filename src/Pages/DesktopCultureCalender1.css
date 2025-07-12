@@ -1,0 +1,116 @@
+.desktop-culture-calender-2-child {
+  width: 236px;
+  height: 245px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.div,
+.sunday {
+  width: 87px;
+  height: 103px;
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+}
+.sunday {
+  width: 177px;
+  height: 34px;
+  font-size: var(--font-size-17xl);
+}
+.desktop-culture-calender-2-item {
+  width: 137px;
+  height: 1px;
+  position: relative;
+  object-fit: contain;
+  display: none;
+}
+.ganesh-chaturthi {
+  width: 182px;
+  height: 46px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 23.2px;
+  display: none;
+  flex-shrink: 0;
+}
+.calendar-container {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-88xl);
+  max-width: 100%;
+}
+.calendar-container,
+.content-wrapper,
+.desktop-culture-calender-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content-wrapper {
+  width: 1827px;
+  flex-direction: row;
+  padding: 0 var(--padding-43xl) var(--padding-203xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-culture-calender-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 1225px) {
+  .content-wrapper {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    padding-bottom: 94px;
+    box-sizing: border-box;
+  }
+  .desktop-culture-calender-2 {
+    gap: var(--gap-41xl);
+  }
+}
+@media screen and (max-width: 850px) {
+  .div {
+    font-size: var(--font-size-32xl);
+  }
+  .sunday {
+    font-size: var(--font-size-10xl);
+  }
+  .calendar-container {
+    gap: var(--gap-34xl);
+  }
+  .content-wrapper {
+    padding-bottom: var(--padding-42xl);
+    box-sizing: border-box;
+  }
+  .desktop-culture-calender-2 {
+    gap: var(--gap-11xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .div {
+    font-size: var(--font-size-19xl);
+  }
+  .sunday {
+    font-size: var(--font-size-3xl);
+  }
+  .ganesh-chaturthi {
+    font-size: var(--font-size-base);
+  }
+  .calendar-container {
+    gap: var(--gap-8xl);
+  }
+}

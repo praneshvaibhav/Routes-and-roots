@@ -1,0 +1,435 @@
+.screenshot-352-ai-brush-remo-icon4 {
+  width: 815px;
+  height: 448px;
+  position: absolute;
+  margin: 0 !important;
+  top: -43px;
+  left: 552px;
+  object-fit: cover;
+  z-index: 2;
+}
+.meenakshi-temple1 {
+  width: 457px;
+  position: absolute;
+  margin: 0 !important;
+  top: 2867px;
+  right: 706px;
+  display: inline-block;
+  z-index: 2;
+}
+.top4 {
+  margin: 0;
+  align-self: stretch;
+  height: 76.4px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.top-reviews3 {
+  width: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl-5) var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.eviews4,
+.r3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.r3 {
+  height: 150.1px;
+  width: 88px;
+  z-index: 1;
+}
+.eviews4 {
+  align-self: stretch;
+  height: 76.4px;
+  z-index: 2;
+}
+.reviews-label,
+.reviews-label1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.reviews-label1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-40xl-5) 0 0;
+  min-width: 175px;
+  font-size: var(--font-size-45xl);
+}
+.reviews-label {
+  width: 390px;
+  flex-direction: row;
+  padding: 0 var(--padding-13xl) 0 0;
+  row-gap: 20px;
+  max-width: 100%;
+  margin-left: -8px;
+  font-size: var(--font-size-109xl);
+}
+.from4 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.from-label {
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-41xl-5) 0 0;
+  box-sizing: border-box;
+  margin-left: -8px;
+}
+.tourists4 {
+  margin: 0;
+  align-self: stretch;
+  height: 72.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 98px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.tourists-label {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl-3) 0 0;
+  box-sizing: border-box;
+  min-width: 323px;
+  max-width: 100%;
+  margin-left: -8px;
+  font-size: var(--font-size-77xl);
+}
+.desktop-sign-in-inner,
+.top-reviews-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.top-reviews-parent {
+  width: 1239px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  row-gap: 20px;
+}
+.desktop-sign-in-inner {
+  width: 1403px;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-10xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-hanuman);
+}
+.heritage-separator-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -3px;
+}
+.heritage-type-example-list-child {
+  width: calc(100% - 12px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 12px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.spritiual-3-icon {
+  align-self: stretch;
+  height: 231px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.spiritual3 {
+  width: 192px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.inner-peace-arises3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  font-family: var(--font-hind-vadodara);
+  z-index: 1;
+}
+.heritage-type-example-list,
+.spiritual-parent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.spiritual-parent1 {
+  width: 276px;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+}
+.heritage-type-example-list {
+  flex: 1;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-lg) var(--padding-50xl)
+    var(--padding-6xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-3xs);
+  min-width: 213px;
+  max-width: 100%;
+}
+.heritage-type-example-list-item {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.museum-mobile-414x233-3-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.museums5 {
+  width: 207px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.heritage-type-example-list1,
+.museums-parent1 {
+  width: 281px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.heritage-type-example-list1 {
+  height: 509px;
+  width: 315px;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-sm) var(--padding-86xl)
+    var(--padding-xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.heritage-type-examples,
+.heritage-types2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heritage-type-examples {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+.heritage-types2 {
+  width: 1728px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.heritage-content1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-82xl-9);
+  max-width: 100%;
+}
+.heritage-content-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.review-container1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 78px;
+  max-width: 100%;
+}
+.desktop-sign-in,
+.review-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+}
+.review-container {
+  width: 1889px;
+  flex-direction: row;
+  padding: 0 var(--padding-40xl) var(--padding-30xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+.desktop-sign-in {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  gap: 196px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-1500);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 1625px) {
+  .heritage-type-examples {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .review-container {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .desktop-sign-in {
+    gap: var(--gap-79xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .meenakshi-temple1 {
+    font-size: var(--font-size-10xl);
+  }
+  .eviews4,
+  .from4,
+  .r3,
+  .top4 {
+    font-size: var(--font-size-32xl);
+  }
+  .tourists4 {
+    font-size: var(--font-size-29xl);
+    line-height: 59px;
+  }
+  .spiritual3 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-type-example-list {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .museums5 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-type-example-list1 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .heritage-content1 {
+    gap: var(--gap-32xl);
+  }
+  .review-container1 {
+    gap: var(--gap-20xl);
+  }
+  .review-container {
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .desktop-sign-in {
+    gap: var(--gap-30xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .meenakshi-temple1 {
+    font-size: var(--font-size-3xl);
+  }
+  .top4 {
+    font-size: var(--font-size-19xl);
+  }
+  .r3 {
+    font-size: var(--font-size-13xl);
+  }
+  .eviews4 {
+    font-size: var(--font-size-19xl);
+  }
+  .reviews-label {
+    flex-wrap: wrap;
+  }
+  .from4 {
+    font-size: var(--font-size-19xl);
+  }
+  .tourists4 {
+    font-size: var(--font-size-10xl);
+    line-height: 39px;
+  }
+  .inner-peace-arises3,
+  .museums5,
+  .spiritual3 {
+    font-size: var(--font-size-lgi);
+  }
+  .heritage-content1 {
+    gap: var(--gap-6xl);
+  }
+  .review-container1 {
+    gap: var(--gap-lgi);
+  }
+}

@@ -1,0 +1,359 @@
+.p-o-p {
+  margin: 0;
+  width: 885px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.p-o-p-u-l-a-r-wrapper {
+  margin-top: -2824px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 2603px 7564px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: var(--font-size-109xl);
+  color: var(--color-snow-600);
+  font-family: var(--font-jost);
+}
+.desktop-e-visa-child {
+  width: 1920px;
+  height: 499px;
+  position: absolute;
+  margin: 0 !important;
+  right: -8px;
+  bottom: 0;
+  background-color: var(--color-mediumorchid-200);
+}
+.about-us4,
+.careers4,
+.complain4,
+.privacy-policy4 {
+  width: 175px;
+  position: relative;
+  display: none;
+  z-index: 2;
+}
+.careers4,
+.complain4,
+.privacy-policy4 {
+  z-index: 3;
+}
+.careers4,
+.privacy-policy4 {
+  width: 275px;
+  z-index: 4;
+}
+.careers4 {
+  width: 175px;
+  z-index: 5;
+}
+.connect-with-us4,
+.help-center4 {
+  width: 269px;
+  position: relative;
+  display: none;
+  z-index: 6;
+}
+.connect-with-us4 {
+  width: 357px;
+  max-width: 100%;
+  z-index: 7;
+}
+.e-visa4,
+.faqs4,
+.terms-condition4 {
+  width: 175px;
+  position: relative;
+  display: none;
+  z-index: 8;
+}
+.e-visa4,
+.terms-condition4 {
+  z-index: 9;
+}
+.terms-condition4 {
+  width: 354px;
+  max-width: 100%;
+  z-index: 10;
+}
+.copyright-all-rights-reserved4,
+.instagram-icon4 {
+  width: 96px;
+  height: 109px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  z-index: 11;
+}
+.copyright-all-rights-reserved4 {
+  width: 71px;
+  height: 44px;
+  z-index: 12;
+}
+.malawi {
+  margin: 0;
+}
+.malawi-malaysia-mali-container {
+  height: 2968px;
+  width: 804px;
+  position: absolute;
+  margin: 0 !important;
+  top: 44px;
+  right: -168px;
+  display: inline-block;
+  z-index: 2;
+}
+.frame-child3 {
+  height: 3225px;
+  width: 1772px;
+  position: relative;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-gray-500);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.albania-andorra-angola-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.albania-country-list {
+  width: 468px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  min-width: 468px;
+  max-width: 100%;
+}
+.dominica-dominican-republic-container {
+  align-self: stretch;
+  height: 2968px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-500);
+  border: 4px solid rgba(255, 254, 254, 0.98);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 1;
+}
+.apply-online {
+  position: absolute;
+  top: 21px;
+  left: 49px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-hanuman);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 272px;
+  height: 53px;
+  z-index: 2;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 96px;
+  flex: 1;
+  position: relative;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.dominica-country-list,
+.dominica-country-list-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.dominica-country-list-inner {
+  width: 384px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+}
+.dominica-country-list {
+  width: 512px;
+  flex-direction: column;
+  gap: var(--gap-36xl);
+  min-width: 512px;
+  color: #fefafa;
+}
+.country-list,
+.rectangle-parent1 {
+  flex: 1;
+  flex-direction: row;
+  max-width: 100%;
+}
+.rectangle-parent1 {
+  border-radius: var(--br-36xl);
+  background-color: var(--color-gray-500);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) var(--padding-65xl) var(--padding-37xl);
+  gap: var(--gap-53xl);
+  flex-shrink: 0;
+  color: var(--color-white);
+}
+.country-list {
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: #fdfafa;
+  font-family: var(--font-hanuman);
+}
+.country-list,
+.country-list-wrapper,
+.desktop-e-visa {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.country-list-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-55xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.desktop-e-visa {
+  width: 100%;
+  height: 4006px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  gap: var(--gap-17xl);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1525px) {
+  .albania-country-list,
+  .dominica-country-list {
+    flex: 1;
+  }
+  .rectangle-parent1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .p-o-p-u-l-a-r-wrapper {
+    padding-left: 3782px;
+    padding-bottom: 1100px;
+    box-sizing: border-box;
+  }
+  .dominica-country-list {
+    min-width: 100%;
+  }
+  .rectangle-parent1 {
+    gap: var(--gap-17xl);
+    padding: var(--padding-xl) var(--padding-23xl) var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .country-list-wrapper {
+    padding-left: var(--padding-18xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .desktop-e-visa {
+    height: auto;
+  }
+}
+@media screen and (max-width: 850px) {
+  .p-o-p {
+    font-size: var(--font-size-32xl);
+  }
+  .p-o-p-u-l-a-r-wrapper {
+    padding-left: 1891px;
+    padding-bottom: 715px;
+    box-sizing: border-box;
+  }
+  .about-us4,
+  .albania-andorra-angola-container,
+  .careers4,
+  .complain4,
+  .connect-with-us4,
+  .e-visa4,
+  .faqs4,
+  .help-center4,
+  .malawi-malaysia-mali-container,
+  .privacy-policy4,
+  .terms-condition4 {
+    font-size: var(--font-size-10xl);
+  }
+  .albania-country-list {
+    min-width: 100%;
+  }
+  .dominica-dominican-republic-container {
+    font-size: var(--font-size-10xl);
+  }
+  .dominica-country-list {
+    gap: var(--gap-8xl);
+  }
+  .rectangle-parent1 {
+    gap: var(--gap-lg);
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .desktop-e-visa {
+    gap: var(--gap-lg);
+  }
+}
+@media screen and (max-width: 450px) {
+  .p-o-p {
+    font-size: var(--font-size-13xl);
+  }
+  .p-o-p-u-l-a-r-wrapper {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .about-us4,
+  .albania-andorra-angola-container,
+  .careers4,
+  .complain4,
+  .connect-with-us4,
+  .dominica-dominican-republic-container,
+  .e-visa4,
+  .faqs4,
+  .help-center4,
+  .malawi-malaysia-mali-container,
+  .privacy-policy4,
+  .terms-condition4 {
+    font-size: var(--font-size-3xl);
+  }
+}

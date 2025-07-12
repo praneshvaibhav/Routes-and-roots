@@ -1,0 +1,229 @@
+.desktop-about-us-child {
+  position: absolute;
+  top: 2867px;
+  left: 0;
+  background-color: var(--color-mediumorchid-200);
+  width: 1920px;
+  height: 499px;
+  display: none;
+}
+.about-us5,
+.complain5 {
+  position: absolute;
+  top: 2942px;
+  left: 156px;
+  display: none;
+  width: 175px;
+  height: 53px;
+}
+.complain5 {
+  top: 3067px;
+}
+.careers5,
+.connect-with-us5,
+.help-center5,
+.privacy-policy5 {
+  position: absolute;
+  top: 3067px;
+  left: 574px;
+  display: none;
+  width: 275px;
+  height: 53px;
+}
+.careers5,
+.connect-with-us5,
+.help-center5 {
+  left: 1034px;
+  width: 175px;
+}
+.connect-with-us5,
+.help-center5 {
+  left: 1539px;
+  width: 269px;
+}
+.connect-with-us5 {
+  top: 3187px;
+  left: 156px;
+  width: 357px;
+}
+.e-visa5,
+.facebook-icon,
+.faqs5,
+.terms-condition5,
+.twitterx-icon {
+  position: absolute;
+  top: 2942px;
+  left: 574px;
+  display: none;
+  width: 175px;
+  height: 53px;
+}
+.e-visa5,
+.facebook-icon,
+.terms-condition5,
+.twitterx-icon {
+  left: 1034px;
+}
+.facebook-icon,
+.terms-condition5,
+.twitterx-icon {
+  left: 1539px;
+  width: 354px;
+}
+.facebook-icon,
+.twitterx-icon {
+  top: 3266px;
+  left: 154px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.twitterx-icon {
+  top: 3267px;
+  left: 316px;
+}
+.copyright-all-rights-reserved5,
+.instagram-icon5 {
+  position: absolute;
+  top: 3257px;
+  left: 459px;
+  width: 96px;
+  height: 109px;
+  object-fit: cover;
+  display: none;
+}
+.copyright-all-rights-reserved5 {
+  top: 3298px;
+  left: 1460px;
+  width: 71px;
+  height: 44px;
+}
+.description-content-child {
+  height: 2551px;
+  width: 1772px;
+  position: relative;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-snow-100);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.welcome-to-rootsroutes {
+  margin: 0;
+}
+.welcome-to-rootsroutes-container {
+  height: 2451px;
+  width: 1666px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.description-content {
+  flex: 1;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-snow-100);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 86px var(--padding-12xl) var(--padding-11xs);
+  max-width: 100%;
+}
+.description-content-wrapper,
+.frame-main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.description-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-55xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-hanuman);
+}
+.frame-main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.screenshot-352-ai-brush-remo-icon2 {
+  position: absolute;
+  top: -58px;
+  left: -216px;
+  width: 815px;
+  height: 448px;
+  object-fit: cover;
+  z-index: 3;
+}
+.screenshot-352-ai-brush-remo-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 599px;
+  height: 390px;
+}
+.desktop-about-us {
+  width: 100%;
+  height: 3366px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1325px) {
+  .description-content-wrapper {
+    padding-left: var(--padding-18xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .desktop-about-us {
+    height: auto;
+    min-height: 3366;
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us5,
+  .careers5,
+  .complain5,
+  .connect-with-us5,
+  .e-visa5,
+  .faqs5,
+  .help-center5,
+  .privacy-policy5,
+  .terms-condition5,
+  .welcome-to-rootsroutes-container {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us5,
+  .careers5,
+  .complain5,
+  .connect-with-us5,
+  .e-visa5,
+  .faqs5,
+  .help-center5,
+  .privacy-policy5,
+  .terms-condition5,
+  .welcome-to-rootsroutes-container {
+    font-size: var(--font-size-3xl);
+  }
+}

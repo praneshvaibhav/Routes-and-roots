@@ -1,0 +1,182 @@
+.desktop-shop-3-child {
+  align-self: stretch;
+  height: 499px;
+  position: relative;
+  background-color: var(--color-mediumorchid-200);
+  display: none;
+}
+.about-us7 {
+  width: 175px;
+  position: relative;
+  display: none;
+}
+.help-center7,
+.privacy-policy7 {
+  width: 275px;
+  position: relative;
+  display: none;
+}
+.help-center7 {
+  width: 269px;
+}
+.connect-with-us7,
+.terms-condition7 {
+  width: 357px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.terms-condition7 {
+  width: 354px;
+}
+.copyright-all-rights-reserved7,
+.instagram-icon7 {
+  width: 96px;
+  height: 109px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.copyright-all-rights-reserved7 {
+  width: 71px;
+  height: 44px;
+}
+.ramesh-pandit-a {
+  margin: 0;
+}
+.ramesh-pandit-a-container {
+  align-self: stretch;
+  position: relative;
+}
+.donate-button {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-black);
+  width: 417px;
+}
+.donate {
+  position: absolute;
+  top: 14px;
+  left: 116px;
+  display: inline-block;
+  width: 316px;
+  height: 59px;
+  z-index: 1;
+}
+.donate-button-parent {
+  height: 102px;
+  width: 432px;
+  position: relative;
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-23xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.ramesh-pandit-a-kashmiri-arti-parent {
+  width: 1524px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  width: 1832px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
+.desktop-shop-3,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-45xl);
+  max-width: 100%;
+}
+.desktop-shop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 277px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent3 {
+    gap: var(--gap-13xl);
+  }
+  .desktop-shop-3 {
+    gap: var(--gap-119xl);
+  }
+}
+@media screen and (max-width: 850px) {
+  .about-us7,
+  .connect-with-us7,
+  .help-center7,
+  .privacy-policy7,
+  .terms-condition7 {
+    font-size: var(--font-size-10xl);
+  }
+  .donate,
+  .ramesh-pandit-a-container {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-wrapper2 {
+    padding-left: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .ramesh-pandit-a-kashmiri-arti-parent {
+    gap: var(--gap-3xl);
+  }
+  .frame-parent3 {
+    gap: var(--gap-base);
+  }
+  .desktop-shop-3 {
+    gap: var(--gap-50xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us7,
+  .connect-with-us7,
+  .help-center7,
+  .privacy-policy7,
+  .terms-condition7 {
+    font-size: var(--font-size-3xl);
+  }
+  .donate,
+  .ramesh-pandit-a-container {
+    font-size: var(--font-size-5xl);
+  }
+}

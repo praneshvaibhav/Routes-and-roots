@@ -1,0 +1,230 @@
+.social-icons-child {
+  height: 813px;
+  width: 1512px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.social-icons-item {
+  height: 483px;
+  width: 1px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.top-reviews1 {
+  height: 44px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.review-heading-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.review-divider-icon {
+  width: 260px;
+  height: 3px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.review-heading-container-parent {
+  align-self: stretch;
+  padding: 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.hotel-list,
+.hotels,
+.review-heading-container-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.hotel-list {
+  align-self: stretch;
+  gap: var(--gap-6xs);
+}
+.hotels {
+  width: 545px;
+  padding: var(--padding-6xl) 0 0;
+  box-sizing: border-box;
+}
+.profile-picture-one {
+  height: 47px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -2px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.user-male-icon2 {
+  height: 46px;
+  width: 63px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.profile-icons {
+  margin: 0 !important;
+  position: absolute;
+  top: 566px;
+  left: 941px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile-icons-child {
+  height: 47px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -5px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.user-male-icon3 {
+  height: 46px;
+  width: 63px;
+  position: relative;
+  object-fit: cover;
+  z-index: 5;
+}
+.profile-icons1 {
+  margin: 0 !important;
+  position: absolute;
+  top: 669px;
+  left: 941px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer,
+.social-icons {
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.social-icons {
+  width: 1512px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 0 var(--padding-xs) var(--padding-mid) var(--padding-21xl);
+  position: relative;
+  gap: var(--gap-lg);
+  max-width: 100%;
+}
+.footer {
+  width: 1714px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.content,
+.content-container,
+.footer {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.content-container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-103xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.content {
+  width: 1905px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-55xl) var(--padding-57xl);
+  box-sizing: border-box;
+}
+.desktop-tajmahal-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-92xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1500px) {
+  .social-icons-item {
+    width: 100%;
+    height: 1px;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .content-container {
+    gap: var(--gap-42xl);
+  }
+  .content {
+    padding-left: var(--padding-18xl);
+    padding-right: var(--padding-18xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .desktop-tajmahal-4 {
+    gap: var(--gap-36xl);
+  }
+}
+@media screen and (max-width: 850px) {
+  .top-reviews1 {
+    font-size: var(--font-size-19xl);
+  }
+  .content-container {
+    gap: var(--gap-11xl);
+  }
+  .content {
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .desktop-tajmahal-4 {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .top-reviews1 {
+    font-size: var(--font-size-10xl);
+  }
+  .content-container {
+    gap: var(--gap-mini);
+  }
+}

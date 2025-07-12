@@ -1,0 +1,113 @@
+.decorative-element {
+  width: 1952px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -22px;
+  bottom: 0;
+  background-color: var(--color-gray-1400);
+}
+.art1 {
+  margin: 0;
+  width: 139px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.art-wrapper {
+  width: 1317px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.art-in-india {
+  margin: 0;
+  font-weight: 300;
+}
+.ancient-and-classical {
+  font-family: var(--font-homemade-apple);
+}
+.the-earliest-examples {
+  font-weight: 300;
+}
+.ancient-and-classical-art-the {
+  margin: 0;
+}
+.art-in-india-container {
+  width: 1317px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+  font-family: var(--font-hind-vadodara);
+}
+.introduction {
+  align-self: stretch;
+  padding: var(--padding-21xl) 295px var(--padding-140xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+}
+.art,
+.introduction,
+.introduction-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.introduction-parent {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+.art {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  gap: var(--gap-38xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .introduction {
+    padding: var(--padding-7xl) 147px var(--padding-84xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .art1 {
+    font-size: var(--font-size-32xl);
+  }
+  .introduction {
+    gap: var(--gap-base);
+    padding: var(--padding-xl) var(--padding-54xl) var(--padding-48xl);
+    box-sizing: border-box;
+  }
+  .art {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .art1 {
+    font-size: var(--font-size-19xl);
+  }
+  .art-in-india-container {
+    font-size: var(--font-size-lgi);
+  }
+}

@@ -1,0 +1,87 @@
+.desktop-shop-2-child {
+  align-self: stretch;
+  height: 499px;
+  position: relative;
+  background-color: var(--color-mediumorchid-200);
+  display: none;
+}
+.about-us,
+.help-center,
+.privacy-policy {
+  width: 175px;
+  position: relative;
+  display: none;
+}
+.help-center,
+.privacy-policy {
+  width: 275px;
+}
+.help-center {
+  width: 269px;
+}
+.connect-with-us,
+.terms-condition {
+  width: 357px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.terms-condition {
+  width: 354px;
+}
+.copyright-all-rights-reserved,
+.instagram-icon {
+  width: 96px;
+  height: 109px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.copyright-all-rights-reserved {
+  width: 71px;
+  height: 44px;
+}
+.product-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-18xl) var(--padding-9xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-shop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 850px) {
+  .about-us,
+  .connect-with-us,
+  .help-center,
+  .privacy-policy,
+  .terms-condition {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us,
+  .connect-with-us,
+  .help-center,
+  .privacy-policy,
+  .terms-condition {
+    font-size: var(--font-size-3xl);
+  }
+}

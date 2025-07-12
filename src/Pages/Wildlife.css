@@ -1,0 +1,121 @@
+.title-icon {
+  width: 1952px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -22px;
+  bottom: 0;
+  background-color: var(--color-gray-1400);
+}
+.wildlife1 {
+  margin: 0;
+  width: 284px;
+  position: relative;
+  font-size: inherit;
+  line-height: 89px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.wildlife-wrapper {
+  width: 1272px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.india-is-a {
+  margin: 0;
+  font-weight: 300;
+}
+.rich-biodiversity {
+  font-family: var(--font-homemade-apple);
+}
+.indias-wildlife-includes {
+  font-weight: 300;
+}
+.rich-biodiversityindias-wild {
+  margin: 0;
+}
+.heading,
+.india-is-a-container {
+  position: relative;
+  max-width: 100%;
+}
+.india-is-a-container {
+  width: 1317px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  z-index: 1;
+  margin-top: -1px;
+  font-family: var(--font-hind-vadodara);
+}
+.heading {
+  align-self: stretch;
+  padding: var(--padding-6xl) var(--padding-xl) var(--padding-10xs)
+    var(--padding-253xl);
+  box-sizing: border-box;
+}
+.content1,
+.heading,
+.wildlife {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content1 {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+.wildlife {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  gap: var(--gap-14xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .heading {
+    padding-left: 136px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .wildlife1 {
+    font-size: var(--font-size-32xl);
+    line-height: 71px;
+  }
+  .heading {
+    padding-left: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .wildlife {
+    gap: var(--gap-base);
+  }
+}
+@media screen and (max-width: 450px) {
+  .wildlife1 {
+    font-size: var(--font-size-19xl);
+    line-height: 53px;
+  }
+  .india-is-a-container {
+    font-size: var(--font-size-lgi);
+  }
+  .heading {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

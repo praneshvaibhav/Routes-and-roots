@@ -1,0 +1,1658 @@
+.desktop-state-2-child {
+  width: 449px;
+  height: 608px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.desktop-state-2-item {
+  width: 194px;
+  height: 187px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  display: none;
+}
+.dianne-russell,
+.i-visited-fort {
+  position: relative;
+  color: var(--color-black);
+  display: none;
+}
+.i-visited-fort {
+  width: 425px;
+  max-width: 100%;
+}
+.dianne-russell {
+  width: 272px;
+}
+.desktop-state-2-inner {
+  width: 292px;
+  height: 2px;
+}
+.about-us8,
+.desktop-state-2-inner,
+.rectangle-footer {
+  position: relative;
+  display: none;
+}
+.rectangle-footer {
+  align-self: stretch;
+  height: 499px;
+  background-color: var(--color-mediumorchid-200);
+}
+.about-us8 {
+  width: 175px;
+}
+.help-center8,
+.privacy-policy8 {
+  width: 275px;
+  position: relative;
+  display: none;
+}
+.help-center8 {
+  width: 269px;
+}
+.connect-with-us8,
+.terms-condition8 {
+  width: 357px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.terms-condition8 {
+  width: 354px;
+}
+.copyright-all-rights-reserved8,
+.instagram-icon8 {
+  width: 96px;
+  height: 109px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.copyright-all-rights-reserved8 {
+  width: 71px;
+  height: 44px;
+}
+.top1 {
+  margin: 0;
+  align-self: stretch;
+  height: 76.4px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.top-wrapper {
+  width: 148px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl-5) 0 0;
+  box-sizing: border-box;
+}
+.eviews1,
+.r1 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.r1 {
+  height: 150.1px;
+  width: 88px;
+  font-size: var(--font-size-109xl);
+  z-index: 1;
+}
+.eviews1 {
+  align-self: stretch;
+  height: 76.4px;
+  font-size: inherit;
+  z-index: 2;
+}
+.eviews-wrapper,
+.frame-parent9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.eviews-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-40xl-5) 0 0;
+  box-sizing: border-box;
+  min-width: 175px;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: row;
+  row-gap: 20px;
+}
+.ellipse-icon {
+  height: 187px;
+  width: 194px;
+  position: absolute;
+  margin: 0 !important;
+  top: -99px;
+  right: 17px;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.cameron-williamson,
+.frame-child6 {
+  position: relative;
+  z-index: 1;
+}
+.frame-child6 {
+  height: 2px;
+  flex: 1;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.cameron-williamson-parent,
+.line-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.line-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-20xl) 0 var(--padding-23xl);
+}
+.cameron-williamson-parent {
+  width: 375px;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.visiting-taj-mahal {
+  margin: 0;
+}
+.visiting-taj-mahal-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent2,
+.visiting-taj-mahal-was-one-the-wrapper {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.visiting-taj-mahal-was-one-the-wrapper {
+  width: 375px;
+  flex-direction: row;
+  padding: 0 var(--padding-xs);
+}
+.rectangle-parent2 {
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  flex-direction: column;
+  padding: var(--padding-88xl) var(--padding-mid) var(--padding-7xl);
+  gap: var(--gap-46xl);
+}
+.ellipse-group,
+.frame-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ellipse-group {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper5 {
+  width: 479px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  font-size: var(--font-size-17xl);
+}
+.frame-parent8,
+.frame-wrapper4 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent8 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 150.4px;
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.taj-mahal,
+.taj-mahal-21 {
+  position: relative;
+  z-index: 1;
+}
+.taj-mahal-21 {
+  align-self: stretch;
+  height: 207px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.taj-mahal {
+  flex: 1;
+}
+.taj-mahal-wrapper {
+  width: 329px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.agra-uttar,
+.ratings-4750 {
+  position: relative;
+  z-index: 1;
+}
+.agra-uttar {
+  align-self: stretch;
+}
+.ratings-4750 {
+  flex: 1;
+}
+.ratings-4750-wrapper {
+  width: 306px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.agra-uttar-pradesh-parent,
+.frame-parent12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.agra-uttar-pradesh-parent {
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.frame-parent12 {
+  gap: var(--gap-mid);
+  max-width: 100%;
+}
+.visit-now {
+  flex: 1;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.forward-icon {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 2;
+  margin-left: -39px;
+}
+.frame-wrapper8,
+.visit-now-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.visit-now-parent {
+  width: 229px;
+}
+.frame-wrapper8 {
+  align-self: stretch;
+  padding: 0 var(--padding-33xl);
+}
+.frame-parent11,
+.frame-wrapper7 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent11 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame-wrapper7 {
+  width: 405px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+}
+.frame-wrapper6,
+.rectangle-parent3 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent3 {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-14xl) var(--padding-base) var(--padding-30xl);
+  gap: var(--gap-2xl);
+}
+.frame-wrapper6 {
+  width: 486px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.delhi,
+.humayuns-tomb {
+  width: 434px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.delhi {
+  width: 343px;
+  flex-shrink: 0;
+}
+.delhi-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.ratings-4250 {
+  width: 244px;
+  position: relative;
+  font-family: var(--font-josefin-slab);
+  display: inline-block;
+  z-index: 1;
+}
+.frame-parent14 {
+  width: 397px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.frame-wrapper9,
+.humayuns-tomb-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper9 {
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.humayuns-tomb-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.visit-now1 {
+  width: 202px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.visit-now-wrapper {
+  width: 364px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.forward-icon1,
+.humayuns-tomb-2 {
+  position: absolute;
+  top: 28px;
+  left: 16px;
+  width: 428px;
+  height: 213px;
+  object-fit: cover;
+  z-index: 1;
+}
+.forward-icon1 {
+  top: 458px;
+  left: 288px;
+  width: 66px;
+  height: 45px;
+  z-index: 2;
+}
+.frame-parent10,
+.frame-parent13,
+.frame-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent13 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: var(--padding-249xl) 0 var(--padding-16xl) var(--padding-19xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-24xl);
+  color: var(--color-black);
+}
+.frame-parent10,
+.frame-parent7 {
+  justify-content: flex-start;
+}
+.frame-parent10 {
+  width: 505px;
+  gap: var(--gap-80xl);
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-1500);
+  font-family: var(--font-headlandone);
+}
+.frame-parent7 {
+  width: 528px;
+  gap: var(--gap-993xl);
+}
+.from1 {
+  width: 220px;
+  top: 181px;
+  left: -97px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.from1,
+.tourist-reviews-child,
+.tourists1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.tourists1 {
+  width: 497px;
+  top: 147px;
+  right: -104px;
+  font-size: var(--font-size-77xl);
+  line-height: 98px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.tourist-reviews-child {
+  height: 3.1px;
+  width: 1749px;
+  top: 295px;
+  left: -624px;
+  object-fit: contain;
+  z-index: 2;
+}
+.map-placeholder {
+  height: 46px;
+  width: 512px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -4px;
+  background-color: var(--color-snow-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.uttar-pradesh-map-1-icon {
+  height: 780px;
+  width: 789px;
+  position: absolute;
+  margin: 0 !important;
+  top: 1124px;
+  left: -151px;
+  object-fit: cover;
+}
+.state-map-background {
+  height: 536px;
+  width: 460px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -14px;
+  left: 13px;
+  background-color: var(--color-gray-100);
+}
+.forward-icon2,
+.forward-icon3 {
+  height: 45px;
+  width: 66px;
+  position: absolute;
+  margin: 0 !important;
+  right: 130px;
+  bottom: 670px;
+  object-fit: cover;
+  z-index: 2;
+}
+.forward-icon3 {
+  right: 129px;
+  bottom: 12px;
+}
+.cities-dropdown-child {
+  width: 508px;
+  height: 3198px;
+  position: relative;
+  background-color: var(--color-snow-600);
+  display: none;
+  max-width: 100%;
+}
+.cities-of-uttar {
+  height: 56px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.close-icon,
+.x {
+  position: absolute;
+}
+.close-icon {
+  top: 6px;
+  left: 0;
+  background-color: var(--color-gainsboro-300);
+  width: 59px;
+  height: 44px;
+  z-index: 5;
+}
+.x {
+  top: 0;
+  left: 18px;
+  display: inline-block;
+  width: 33px;
+  height: 66px;
+  cursor: pointer;
+  z-index: 6;
+}
+.close-button {
+  height: 66px;
+  width: 59px;
+  position: relative;
+  margin-left: -66px;
+  color: var(--color-black);
+  font-family: var(--font-gotu);
+}
+.cities-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.agra {
+  width: 75px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 31px;
+  font-family: var(--font-gotu);
+  color: var(--color-black);
+  display: inline-block;
+  cursor: pointer;
+  z-index: 4;
+}
+.cities-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  max-width: 100%;
+}
+.aligarh-ambedkar-nagar-container {
+  width: 454px;
+  height: 2032px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-gotu);
+  color: var(--color-black);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.cities-dropdown {
+  flex: 1;
+  background-color: var(--color-snow-600);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-9xs) 1043px var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-6xs);
+  max-width: 100%;
+  z-index: 3;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-gowun-batang);
+}
+.tourist-reviews-item {
+  height: 2.1px;
+  width: 508px;
+  position: absolute;
+  margin: 0 !important;
+  top: 77px;
+  right: -16px;
+  object-fit: contain;
+  z-index: 7;
+}
+.tourist-reviews {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.map-container-wrapper,
+.reviews-container {
+  width: 519px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-2xs) var(--padding-sm) 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.map-container-wrapper {
+  width: 409px;
+  flex-direction: row;
+  padding: 0 var(--padding-46xl);
+}
+.account-circle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.account-icon {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  width: 142px;
+  height: 170px;
+  object-fit: cover;
+  z-index: 2;
+}
+.account-icon-container {
+  height: 187px;
+  flex: 1;
+  position: relative;
+}
+.account-details {
+  position: absolute;
+  top: 0;
+  left: 255px;
+  width: 194px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-in {
+  width: 166px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.sign-in-label-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-30xl);
+}
+.sign-in-details-child {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.sign-in-details {
+  width: 292px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.add-yours {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.add-yours-wrapper,
+.rectangle-parent5 {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.add-yours-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+  font-size: var(--font-size-29xl);
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  width: 100%;
+  flex-direction: column;
+  padding: var(--padding-96xl) var(--padding-lgi) var(--padding-218xl)
+    var(--padding-57xl);
+  gap: var(--gap-81xl);
+  min-height: 608px;
+}
+.account-details-parent {
+  align-self: stretch;
+  height: 707px;
+  position: relative;
+  max-width: 100%;
+}
+.map-and-account {
+  width: 449px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 260px;
+  max-width: 100%;
+}
+.palace-details-child {
+  width: 460px;
+  height: 536px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.mysore-palace-2 {
+  align-self: stretch;
+  height: 207px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.mysore-karnataka,
+.mysore-palace {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.mysore-palace {
+  width: 354px;
+}
+.mysore-karnataka {
+  flex: 1;
+}
+.palace-location {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.palace-name-details {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-11xs);
+}
+.palace-name-container,
+.palace-name-details,
+.palace-rating-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.palace-rating-container {
+  width: 354px;
+  flex-direction: row;
+  padding: 0 var(--padding-36xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-josefin-slab);
+}
+.palace-name-container {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+}
+.forward-icon4 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 2;
+  margin-left: -45px;
+}
+.palace-button-container,
+.palace-visit-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.palace-button-container {
+  flex: 1;
+  justify-content: flex-start;
+}
+.palace-visit-button {
+  width: 339px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-39xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.palace-name-and-rating {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  max-width: 100%;
+}
+.palace-details,
+.palace-info {
+  width: 411px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.palace-details {
+  width: 460px;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-lg) var(--padding-23xl)
+    var(--padding-sm);
+  gap: var(--gap-9xl);
+}
+.konark-sun-temple {
+  width: 460px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.temple-location-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-family: var(--font-jacques-francois);
+}
+.ratings-44501 {
+  width: 244px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.temple-rating-container {
+  width: 460px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-josefin-slab);
+}
+.temple-container,
+.temple-visit-button-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.temple-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  max-width: 100%;
+}
+.temple-visit-button-container {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-15xl);
+  font-size: var(--font-size-17xl);
+}
+.temple-image-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 100%;
+}
+.forward-icon5,
+.konark-sun-temple-13e71cbb6e-2-icon {
+  position: absolute;
+  top: 28px;
+  left: 19px;
+  width: 419px;
+  height: 215px;
+  object-fit: cover;
+  z-index: 1;
+}
+.forward-icon5 {
+  top: 465px;
+  left: 314px;
+  width: 66px;
+  height: 45px;
+  z-index: 2;
+}
+.temple-image-container {
+  width: 460px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.temple-container-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-256xl) 0 var(--padding-9xl) var(--padding-smi);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-1500);
+}
+.palace-container {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-80xl);
+}
+.map-and-account-parent,
+.palace-container,
+.palace-container-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.palace-container-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  font-family: var(--font-headlandone);
+}
+.map-and-account-parent {
+  width: 496px;
+  flex-direction: column;
+  gap: var(--gap-993xl);
+  font-size: var(--font-size-17xl);
+}
+.frame-parent6 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-parent4,
+.frame-parent5,
+.frame-wrapper3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper3 {
+  width: 1903px;
+  flex-direction: row;
+  padding: 0 var(--padding-40xl);
+  box-sizing: border-box;
+}
+.frame-parent4,
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent5 {
+  gap: var(--gap-20xl);
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-hanuman);
+}
+.frame-parent4 {
+  gap: var(--gap-39xl);
+}
+.image-type-container-child {
+  width: calc(100% - 12px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 12px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.spritiual-1-icon1 {
+  align-self: stretch;
+  height: 231px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.spiritual2 {
+  width: 192px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.inner-peace-arises2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  font-family: var(--font-hind-vadodara);
+  z-index: 1;
+}
+.image-type-container,
+.spiritual-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.spiritual-container {
+  width: 276px;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+}
+.image-type-container {
+  flex: 1;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-lg) var(--padding-50xl)
+    var(--padding-6xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-3xs);
+  min-width: 213px;
+  max-width: 100%;
+}
+.image-type-container-item {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.museum-mobile-414x233-1-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.museums4 {
+  width: 207px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.image-type-container1,
+.museums-container {
+  width: 281px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.image-type-container1 {
+  height: 509px;
+  width: 315px;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-sm) var(--padding-86xl)
+    var(--padding-xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.heritage-container,
+.heritage-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heritage-container {
+  flex: 1;
+  gap: var(--gap-9xl);
+}
+.heritage-container-wrapper {
+  width: 1884px;
+  padding: 0 var(--padding-61xl) var(--padding-5xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-halant);
+}
+.search-city-or,
+.victoria-memorial-2 {
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.search-city-or {
+  width: 335px;
+  line-height: 44px;
+  font-family: var(--font-gowun-batang);
+  color: var(--color-gray-400);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.victoria-memorial-2 {
+  width: 428px;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ratings-4650,
+.visit-now4 {
+  width: 202px;
+  position: relative;
+  font-family: var(--font-headlandone);
+  color: var(--color-gray-1500);
+  display: none;
+}
+.ratings-4650 {
+  width: 244px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-josefin-slab);
+}
+.madurai-tamil,
+.meenakshi-temple,
+.victoria-memorial {
+  position: relative;
+  color: var(--color-gray-1500);
+  display: none;
+  max-width: 100%;
+}
+.madurai-tamil {
+  width: 343px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.meenakshi-temple,
+.victoria-memorial {
+  width: 457px;
+  font-family: var(--font-headlandone);
+}
+.victoria-memorial {
+  width: 434px;
+}
+.desktop-state-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 235px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1700px) {
+  .frame-parent6,
+  .heritage-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .cities-dropdown {
+    padding-top: var(--padding-xl);
+    padding-bottom: 441px;
+    box-sizing: border-box;
+  }
+  .frame-wrapper3 {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .heritage-container-wrapper {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .desktop-state-2 {
+    gap: 117px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us8,
+  .connect-with-us8,
+  .dianne-russell,
+  .help-center8,
+  .i-visited-fort,
+  .privacy-policy8,
+  .terms-condition8 {
+    font-size: var(--font-size-10xl);
+  }
+  .eviews1,
+  .r1,
+  .top1 {
+    font-size: var(--font-size-32xl);
+  }
+  .frame-parent9 {
+    flex-wrap: wrap;
+  }
+  .cameron-williamson,
+  .visiting-taj-mahal-container {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-parent2 {
+    padding-top: var(--padding-51xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent8 {
+    gap: var(--gap-56xl);
+  }
+  .taj-mahal {
+    font-size: var(--font-size-10xl);
+  }
+  .agra-uttar,
+  .ratings-4750 {
+    font-size: var(--font-size-7xl);
+  }
+  .visit-now {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-parent3 {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .humayuns-tomb {
+    font-size: var(--font-size-10xl);
+  }
+  .delhi,
+  .ratings-4250 {
+    font-size: var(--font-size-7xl);
+  }
+  .visit-now1 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent13 {
+    gap: var(--gap-2xl);
+    padding-top: var(--padding-155xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .frame-parent10 {
+    gap: var(--gap-30xl);
+  }
+  .frame-parent7 {
+    gap: var(--gap-487xl);
+  }
+  .from1 {
+    font-size: var(--font-size-32xl);
+  }
+  .tourists1 {
+    font-size: var(--font-size-29xl);
+    line-height: 59px;
+  }
+  .cities-of-uttar,
+  .x {
+    font-size: var(--font-size-10xl);
+  }
+  .cities-dropdown {
+    padding-bottom: 287px;
+    box-sizing: border-box;
+  }
+  .sign-in {
+    font-size: var(--font-size-10xl);
+  }
+  .add-yours {
+    font-size: var(--font-size-19xl);
+  }
+  .mysore-palace {
+    font-size: var(--font-size-10xl);
+  }
+  .mysore-karnataka {
+    font-size: var(--font-size-7xl);
+  }
+  .palace-details {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .konark-sun-temple {
+    font-size: var(--font-size-10xl);
+  }
+  .ratings-44501 {
+    font-size: var(--font-size-7xl);
+  }
+  .temple-container-parent {
+    gap: var(--gap-8xl);
+    padding-top: var(--padding-160xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .palace-container {
+    gap: var(--gap-30xl);
+  }
+  .map-and-account-parent {
+    gap: var(--gap-487xl);
+  }
+  .frame-parent5 {
+    gap: var(--gap-lgi);
+  }
+  .frame-parent4 {
+    gap: var(--gap-10xl);
+  }
+  .spiritual2 {
+    font-size: var(--font-size-7xl);
+  }
+  .image-type-container {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .museums4 {
+    font-size: var(--font-size-7xl);
+  }
+  .image-type-container1 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .search-city-or {
+    line-height: 35px;
+  }
+  .search-city-or,
+  .visit-now4 {
+    font-size: var(--font-size-10xl);
+  }
+  .madurai-tamil,
+  .ratings-4650 {
+    font-size: var(--font-size-7xl);
+  }
+  .meenakshi-temple,
+  .victoria-memorial {
+    font-size: var(--font-size-10xl);
+  }
+  .desktop-state-2 {
+    gap: var(--gap-40xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us8,
+  .connect-with-us8,
+  .dianne-russell,
+  .help-center8,
+  .i-visited-fort,
+  .privacy-policy8,
+  .terms-condition8 {
+    font-size: var(--font-size-3xl);
+  }
+  .top1 {
+    font-size: var(--font-size-19xl);
+  }
+  .r1 {
+    font-size: var(--font-size-13xl);
+  }
+  .eviews1 {
+    font-size: var(--font-size-19xl);
+  }
+  .cameron-williamson {
+    font-size: var(--font-size-3xl);
+  }
+  .line-frame {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .visiting-taj-mahal-container {
+    font-size: var(--font-size-3xl);
+  }
+  .rectangle-parent2 {
+    gap: var(--gap-13xl);
+  }
+  .frame-parent8 {
+    gap: var(--gap-19xl);
+  }
+  .taj-mahal {
+    font-size: var(--font-size-3xl);
+  }
+  .agra-uttar,
+  .ratings-4750 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-now {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-wrapper8 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .humayuns-tomb {
+    font-size: var(--font-size-3xl);
+  }
+  .delhi,
+  .ratings-4250 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-now1 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent10 {
+    gap: var(--gap-6xl);
+  }
+  .frame-parent7 {
+    gap: 253px;
+  }
+  .from1 {
+    font-size: var(--font-size-19xl);
+  }
+  .tourists1 {
+    font-size: var(--font-size-10xl);
+    line-height: 39px;
+  }
+  .cities-of-uttar,
+  .x {
+    font-size: var(--font-size-3xl);
+  }
+  .agra {
+    line-height: 25px;
+  }
+  .agra,
+  .aligarh-ambedkar-nagar-container {
+    font-size: var(--font-size-lgi);
+  }
+  .cities-dropdown {
+    padding-bottom: 187px;
+    box-sizing: border-box;
+  }
+  .map-container-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .sign-in {
+    font-size: var(--font-size-3xl);
+  }
+  .sign-in-label-container {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .add-yours {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-parent5 {
+    gap: var(--gap-31xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .map-and-account {
+    gap: 130px;
+  }
+  .mysore-palace {
+    font-size: var(--font-size-3xl);
+  }
+  .mysore-karnataka {
+    font-size: var(--font-size-lgi);
+  }
+  .palace-rating-container,
+  .palace-visit-button {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .palace-name-and-rating {
+    gap: var(--gap-base);
+  }
+  .konark-sun-temple {
+    font-size: var(--font-size-3xl);
+  }
+  .inner-peace-arises2,
+  .museums4,
+  .ratings-44501,
+  .spiritual2 {
+    font-size: var(--font-size-lgi);
+  }
+  .search-city-or {
+    line-height: 26px;
+  }
+  .search-city-or,
+  .visit-now4 {
+    font-size: var(--font-size-3xl);
+  }
+  .madurai-tamil,
+  .ratings-4650 {
+    font-size: var(--font-size-lgi);
+  }
+  .meenakshi-temple,
+  .victoria-memorial {
+    font-size: var(--font-size-3xl);
+  }
+}

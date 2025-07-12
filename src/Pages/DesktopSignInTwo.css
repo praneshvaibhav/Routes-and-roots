@@ -1,0 +1,76 @@
+.screenshot-352-ai-brush-remo-icon {
+  width: 1028px;
+  height: 532px;
+  position: absolute;
+  margin: 0 !important;
+  top: -93px;
+  right: 419px;
+  object-fit: cover;
+  z-index: 2;
+}
+.jaipur-template-1 {
+  width: 1922px;
+  height: 1793px;
+  position: absolute;
+  margin: 0 !important;
+  top: 1618px;
+  left: calc(50% - 961px);
+  object-fit: cover;
+}
+.desktop-sign-in-two-inner,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 62px;
+}
+.desktop-sign-in-two-inner {
+  width: 1896px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-25xl) 114px;
+  box-sizing: border-box;
+}
+.desktop-sign-in-two {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-40xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .desktop-sign-in-two-inner {
+    padding-left: var(--padding-3xl);
+    padding-right: var(--padding-3xl);
+    padding-bottom: var(--padding-55xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frame-parent {
+    gap: var(--gap-12xl);
+  }
+  .desktop-sign-in-two-inner {
+    padding-bottom: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+  .desktop-sign-in-two {
+    gap: var(--gap-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent {
+    gap: var(--gap-mini);
+  }
+}

@@ -1,0 +1,67 @@
+.frame-child1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: -10px;
+  background-color: var(--color-gray-1400);
+  width: 1952px;
+}
+.museums3 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 849px;
+  font-size: inherit;
+  line-height: 89px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 284px;
+  height: 89px;
+  z-index: 1;
+}
+.rectangle-group {
+  align-self: stretch;
+  height: 1365px;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+.frame-group,
+.museums2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  max-width: 100%;
+}
+.museums2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  gap: var(--gap-38xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 850px) {
+  .museums3 {
+    font-size: var(--font-size-32xl);
+    line-height: 71px;
+  }
+  .museums2 {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .museums3 {
+    font-size: var(--font-size-19xl);
+    line-height: 53px;
+  }
+}
