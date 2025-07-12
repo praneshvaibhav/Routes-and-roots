@@ -1,0 +1,399 @@
+.home7 {
+  text-decoration: none;
+  position: relative;
+  line-height: 41px;
+  color: inherit;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 4;
+}
+.expand-arrow-icon7 {
+  height: 48px;
+  width: 52px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -41px;
+  left: calc(50% - 26px);
+  object-fit: cover;
+  z-index: 5;
+}
+.home-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  color: var(--color-mediumorchid-200);
+}
+.about-us29 {
+  position: relative;
+  cursor: pointer;
+  z-index: 4;
+}
+.about-us-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+}
+.destnations8,
+.shop8 {
+  position: relative;
+  display: inline-block;
+  min-width: 91px;
+}
+.destnations8 {
+  flex: 1;
+  min-width: 148px;
+}
+.nav-links {
+  margin: 0;
+  width: 704px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+  white-space: nowrap;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-jost);
+}
+.culture-calender8 {
+  width: 307px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.cart-parent-child {
+  height: 48px;
+  width: 270px;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  flex-shrink: 0;
+  display: none;
+}
+.items8 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 102px;
+  z-index: 1;
+}
+.frame-child69 {
+  width: 1px;
+  height: 49px;
+  position: relative;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.cart-parent-inner {
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.rs008 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 76px;
+  z-index: 1;
+}
+.rupees-parent {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  color: var(--color-mediumorchid-200);
+}
+.cart-parent,
+.items-parent,
+.rupees-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cart-parent {
+  background-color: var(--color-gainsboro-300);
+  overflow-x: auto;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs) 0 var(--padding-52xl);
+}
+.items-parent {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  color: var(--color-black);
+}
+.culture-calender-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.state-and-territories {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  line-height: 44px;
+  display: inline-block;
+  width: 335px;
+  height: 44px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 20;
+}
+.frame-child70,
+.frame-child71 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 19;
+}
+.frame-child71 {
+  top: 1px;
+  left: 445px;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-black);
+  width: 65px;
+  height: 43px;
+  cursor: pointer;
+  z-index: 22;
+}
+.rectangle-parent42 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 512px;
+  height: 46px;
+}
+.state-and-territories-parent {
+  height: 51px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.multiplication-icon9 {
+  height: 47px;
+  width: 67px;
+  position: relative;
+  object-fit: cover;
+  z-index: 21;
+  margin-left: -65px;
+}
+.state-image-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.andhra-parent-child {
+  height: 46px;
+  width: 512px;
+  position: relative;
+  background-color: var(--color-snow-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.span21 {
+  color: var(--color-gray-600);
+}
+.div64 {
+  width: 69px;
+  position: relative;
+  line-height: 42px;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 20;
+}
+.span22 {
+  color: var(--color-white);
+}
+.andhra-pradesh {
+  width: 335px;
+  position: relative;
+  line-height: 44px;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  max-width: 100%;
+  z-index: 20;
+  color: var(--color-gray-1000);
+}
+.andhra-parent {
+  align-self: stretch;
+  background-color: var(--color-snow-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+  gap: var(--gap-24xl);
+  max-width: 100%;
+  z-index: 18;
+  color: var(--color-gray-900);
+}
+.state-image-parent-parent,
+.states-parent1 {
+  width: 514px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.states-parent1 {
+  width: 752px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-gowun-batang);
+}
+.calendar-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  min-width: 512px;
+  max-width: 100%;
+}
+.nav-link-parent,
+.nav-links-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.nav-link-parent {
+  flex: 1;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: var(--gap-19xl);
+}
+.nav-links-parent {
+  width: 1573px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.info-parent {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-44xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 1300px) {
+  .info-parent {
+    gap: var(--gap-12xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us29,
+  .destnations8,
+  .shop8 {
+    font-size: var(--font-size-7xl);
+  }
+  .nav-links {
+    gap: var(--gap-lgi);
+    flex-wrap: wrap;
+  }
+  .culture-calender8,
+  .items8,
+  .rs008 {
+    font-size: var(--font-size-7xl);
+  }
+  .culture-calender-group {
+    flex-wrap: wrap;
+  }
+  .andhra-pradesh,
+  .div64,
+  .state-and-territories {
+    font-size: var(--font-size-10xl);
+    line-height: 35px;
+  }
+  .andhra-pradesh,
+  .div64 {
+    line-height: 34px;
+  }
+  .andhra-pradesh {
+    line-height: 35px;
+  }
+  .andhra-parent {
+    gap: var(--gap-2xl);
+    flex-wrap: wrap;
+  }
+  .calendar-parent {
+    min-width: 100%;
+  }
+  .nav-link-parent {
+    gap: var(--gap-lgi);
+  }
+  .info-parent {
+    gap: var(--gap-base);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us29,
+  .culture-calender8,
+  .destnations8,
+  .items8,
+  .rs008,
+  .shop8 {
+    font-size: var(--font-size-lgi);
+  }
+  .cart-parent {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .andhra-pradesh,
+  .div64,
+  .state-and-territories {
+    font-size: var(--font-size-3xl);
+    line-height: 26px;
+  }
+  .andhra-pradesh,
+  .div64 {
+    line-height: 25px;
+  }
+  .andhra-pradesh {
+    line-height: 26px;
+  }
+}

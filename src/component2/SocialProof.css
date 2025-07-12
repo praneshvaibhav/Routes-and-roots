@@ -1,0 +1,194 @@
+.reviews-header-child {
+  height: 813px;
+  width: 1512px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.reviews-header-item {
+  height: 483px;
+  width: 1px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.top-reviews4 {
+  height: 44px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.review-heading {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.review-separator-icon {
+  width: 260px;
+  height: 3px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.review-heading-parent {
+  align-self: stretch;
+  padding: 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.accommodations,
+.hotel-list2,
+.review-heading-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.hotel-list2 {
+  align-self: stretch;
+  gap: var(--gap-6xs);
+}
+.accommodations {
+  width: 545px;
+  padding: var(--padding-6xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-abhaya-libre-extrabold);
+}
+.author-image {
+  height: 47px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -2px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.user-male-icon6 {
+  height: 46px;
+  width: 63px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.reviews-authors {
+  margin: 0 !important;
+  position: absolute;
+  top: 566px;
+  left: 941px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.reviews-authors-child {
+  height: 47px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -5px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.user-male-icon7 {
+  height: 46px;
+  width: 63px;
+  position: relative;
+  object-fit: cover;
+  z-index: 5;
+}
+.reviews-authors1 {
+  margin: 0 !important;
+  position: absolute;
+  top: 669px;
+  left: 941px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.reviews-header,
+.reviews-header-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.reviews-header {
+  align-self: stretch;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 0 var(--padding-xs) var(--padding-mid) var(--padding-21xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-lg);
+}
+.reviews-header-parent {
+  width: 1512px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-102xl);
+}
+.social-proof {
+  width: 1892px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-20xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 1325px) {
+  .reviews-header-item {
+    width: 100%;
+    height: 1px;
+  }
+  .reviews-header-parent {
+    gap: var(--gap-41xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .top-reviews4 {
+    font-size: var(--font-size-19xl);
+  }
+  .reviews-header-parent {
+    gap: var(--gap-11xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .top-reviews4 {
+    font-size: var(--font-size-10xl);
+  }
+  .reviews-header-parent {
+    gap: var(--gap-mini);
+  }
+}

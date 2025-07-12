@@ -1,0 +1,137 @@
+.expand-arrow-icon2 {
+  height: 48px;
+  width: 52px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.expand-arrow-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs);
+}
+.for-indian-sellers,
+.note {
+  position: relative;
+  flex-shrink: 0;
+}
+.note {
+  height: 76px;
+  width: 153px;
+  display: inline-block;
+}
+.for-indian-sellers {
+  align-self: stretch;
+  z-index: 3;
+}
+.for-indian-sellers-only-wrapper,
+.note-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.for-indian-sellers-only-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  min-width: 335px;
+  margin-left: -12px;
+  font-family: var(--font-inria-sans);
+}
+.note-content {
+  align-self: stretch;
+  flex-direction: row;
+  row-gap: 20px;
+}
+.frame-child14 {
+  width: 600px;
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 3;
+}
+.frame-wrapper12,
+.note-content-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.note-content-parent {
+  align-self: stretch;
+}
+.frame-wrapper12 {
+  width: 656px;
+  padding: var(--padding-24xl) 0 0;
+  box-sizing: border-box;
+}
+.multiplication-icon3 {
+  height: 70px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-parent20 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-header,
+.frame-parent19,
+.frame-wrapper11 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent19 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-smi);
+}
+.frame-header,
+.frame-wrapper11 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.frame-wrapper11 {
+  flex-direction: row;
+  padding: 0 var(--padding-16xl) 0 var(--padding-15xl);
+  box-sizing: border-box;
+}
+.frame-header {
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-kaisei-opti);
+}
+@media screen and (max-width: 900px) {
+  .for-indian-sellers {
+    font-size: var(--font-size-19xl);
+  }
+  .for-indian-sellers-only-wrapper {
+    margin-left: 0;
+  }
+  .frame-parent20,
+  .note-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .for-indian-sellers {
+    font-size: var(--font-size-10xl);
+  }
+}

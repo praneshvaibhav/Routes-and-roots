@@ -1,0 +1,149 @@
+.saturday-date-inner-child {
+  width: 236px;
+  height: 245px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  z-index: 1;
+}
+.saturday-icon-one {
+  height: 103px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.saturday-icon-two {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  z-index: 3;
+}
+.saturday-date-content,
+.saturday-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.saturday-icons {
+  flex: 1;
+  position: relative;
+}
+.saturday-date-content {
+  width: 161px;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+}
+.saturday3 {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.saturday-day-name-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.saturday-day-separator-child {
+  height: 1px;
+  width: 137px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.saturday-day-separator {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+}
+.chhath-puja-nahay,
+.saturday-festival-description {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.saturday-festival-description {
+  flex: 1;
+  z-index: 2;
+  margin-top: -46px;
+}
+.saturday-day-info,
+.saturday-festival {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+}
+.saturday-day-info {
+  gap: var(--gap-xl);
+  margin-top: -12px;
+  font-size: var(--font-size-17xl);
+}
+.thursday-date-info {
+  width: 137px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 91px;
+  left: 42px;
+  object-fit: contain;
+  z-index: 2;
+}
+.saturday-date-inner {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-4xl) var(--padding-7xl)
+    var(--padding-10xl);
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 925px) {
+  .saturday-icon-one,
+  .saturday-icon-two {
+    font-size: var(--font-size-32xl);
+  }
+  .saturday3 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .saturday-icon-one,
+  .saturday-icon-two {
+    font-size: var(--font-size-19xl);
+  }
+  .saturday3 {
+    font-size: var(--font-size-3xl);
+  }
+  .chhath-puja-nahay,
+  .saturday-festival-description {
+    font-size: var(--font-size-base);
+  }
+}

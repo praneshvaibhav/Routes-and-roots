@@ -1,0 +1,256 @@
+.hotels-available- {
+  width: 359px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.hotel-one-info-child {
+  height: 113px;
+  width: 537px;
+  position: relative;
+  background-color: var(--color-beige);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.hotel-taj-1 {
+  height: 103px;
+  width: 155px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.hotel-taj-resort {
+  height: 20px;
+  font-size: var(--font-size-5xl);
+  flex-shrink: 0;
+}
+.hotel-one-price1,
+.hotel-taj-resort,
+.rs3359 {
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.rs3359 {
+  width: 89px;
+  font-family: var(--font-abyssinica-sil);
+}
+.hotel-one-price1 {
+  height: 18px;
+  min-width: 26px;
+}
+.star-icon {
+  align-self: stretch;
+  max-height: 100%;
+  min-height: 17px;
+  z-index: 2;
+}
+.star-icon,
+.star-icon1,
+.star-icon2 {
+  width: 27px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.star-icon1 {
+  align-self: stretch;
+  max-height: 100%;
+  min-height: 17px;
+  z-index: 3;
+  margin-left: -11px;
+}
+.star-icon2 {
+  height: 17px;
+  z-index: 4;
+}
+.half-star-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+  margin-left: -11px;
+}
+.star-half-empty {
+  height: 16px;
+  width: 19px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  z-index: 5;
+  margin-left: -11px;
+}
+.stars {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+}
+.k {
+  height: 17px;
+  width: 67px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.star-rating {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.hotel-one-price,
+.hotel-one-title,
+.rating-count,
+.star-rating {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rating-count {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.hotel-one-price,
+.hotel-one-title {
+  align-self: stretch;
+}
+.hotel-one-price {
+  flex-direction: row;
+  gap: var(--gap-lg);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.hotel-one-title {
+  flex-direction: column;
+  gap: var(--gap-7xs);
+}
+.hotel-one-image-container,
+.hotel-one-title-wrapper {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hotel-one-title-wrapper {
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  min-width: 127px;
+}
+.hotel-one-image-container {
+  flex-direction: row;
+  gap: var(--gap-4xs);
+  min-width: 234px;
+  max-width: 100%;
+}
+.deal-background {
+  height: 30px;
+  width: 127px;
+  position: absolute;
+  margin: 0 !important;
+  top: -4px;
+  left: -17px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-firebrick);
+  z-index: 2;
+}
+.view-deal {
+  height: 32px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.deal-button,
+.hotel-deal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.deal-button {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.hotel-deal {
+  width: 110px;
+  flex-direction: column;
+  padding: var(--padding-42xl) 0 0;
+  box-sizing: border-box;
+  color: var(--color-white);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.hotel-one-info {
+  align-self: stretch;
+  background-color: var(--color-beige);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: var(--padding-12xs) var(--padding-6xs);
+  gap: var(--gap-25xl);
+  z-index: 1;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-abhaya-libre-extrabold);
+}
+.hotel-one,
+.hotel-one-details,
+.hotel-one-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.hotel-one-details {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.hotel-one {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) var(--padding-lg);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}
+@media screen and (max-width: 900px) {
+  .hotels-available- {
+    font-size: var(--font-size-10xl);
+  }
+  .hotel-one-info {
+    gap: var(--gap-3xl);
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .hotels-available- {
+    font-size: var(--font-size-3xl);
+  }
+  .hotel-taj-1 {
+    flex: 1;
+  }
+  .hotel-taj-resort {
+    font-size: var(--font-size-lgi);
+  }
+  .hotel-one-price1,
+  .k,
+  .rs3359 {
+    font-size: var(--font-size-base);
+  }
+  .hotel-one-image-container {
+    flex-wrap: wrap;
+  }
+  .view-deal {
+    font-size: var(--font-size-base);
+  }
+}

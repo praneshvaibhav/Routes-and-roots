@@ -1,0 +1,384 @@
+.top7 {
+  margin: 0;
+  align-self: stretch;
+  height: 76.4px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.top-container {
+  width: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl-5) var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.eviews8,
+.r6 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.r6 {
+  height: 150.1px;
+  width: 88px;
+  z-index: 1;
+}
+.eviews8 {
+  align-self: stretch;
+  height: 76.4px;
+  z-index: 2;
+}
+.eviews-frame,
+.r-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.eviews-frame {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-40xl-5) 0 0;
+  min-width: 175px;
+  font-size: var(--font-size-45xl);
+}
+.r-group {
+  width: 390px;
+  flex-direction: row;
+  padding: 0 var(--padding-13xl) 0 0;
+  row-gap: 20px;
+  max-width: 100%;
+  margin-left: -8px;
+  font-size: var(--font-size-109xl);
+}
+.from8 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.from-parent {
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-41xl-5) 0 0;
+  box-sizing: border-box;
+  margin-left: -8px;
+}
+.tourists8 {
+  margin: 0;
+  align-self: stretch;
+  height: 72.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 98px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.top-review-parent,
+.top-reviews-parent1,
+.tourists-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.tourists-parent {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-31xl-3) 0 0;
+  box-sizing: border-box;
+  min-width: 323px;
+  margin-left: -8px;
+  font-size: var(--font-size-77xl);
+}
+.top-review-parent,
+.top-reviews-parent1 {
+  flex-direction: row;
+}
+.top-review-parent {
+  flex: 1;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  row-gap: 20px;
+}
+.top-reviews-parent1 {
+  width: 1243px;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.frame-child72 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -3px;
+}
+.third-card-parent-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heritage-container-child {
+  width: calc(100% - 12px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 12px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.spritiual-1-icon3 {
+  align-self: stretch;
+  height: 231px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.spiritual6 {
+  width: 192px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.inner-peace-arises6 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  font-family: var(--font-hind-vadodara);
+  z-index: 1;
+}
+.heritage-container1,
+.spiritual-parent4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.spiritual-parent4 {
+  width: 276px;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+}
+.heritage-container1 {
+  flex: 1;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-lg) var(--padding-50xl)
+    var(--padding-6xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-3xs);
+  min-width: 213px;
+  max-width: 100%;
+}
+.heritage-container-item {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.museum-mobile-414x233-1-icon3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.museums8 {
+  width: 207px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.heritage-container2,
+.museums-parent4 {
+  width: 281px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.heritage-container2 {
+  height: 509px;
+  width: 315px;
+  align-items: flex-end;
+  padding: var(--padding-6xl) var(--padding-sm) var(--padding-86xl)
+    var(--padding-xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.card-parent,
+.heritages-parent,
+.third-card-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heritages-parent {
+  width: 1724px;
+  flex-direction: row;
+  gap: var(--gap-9xl);
+}
+.card-parent,
+.third-card-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-77xl-9);
+}
+.card-parent {
+  align-items: flex-end;
+  gap: var(--gap-66xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+.review-parent,
+.top-reviews-parent-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.top-reviews-parent-parent {
+  width: 1750px;
+  flex-direction: column;
+  gap: var(--gap-180xl);
+}
+.review-parent {
+  flex-direction: row;
+  padding: 0 var(--padding-61xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1650px) {
+  .heritages-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .top-reviews-parent-parent {
+    gap: var(--gap-80xl);
+  }
+  .review-parent {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .eviews8,
+  .from8,
+  .r6,
+  .top7 {
+    font-size: var(--font-size-32xl);
+  }
+  .tourists8 {
+    font-size: var(--font-size-29xl);
+    line-height: 59px;
+  }
+  .spiritual6 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-container1 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .museums8 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-container2 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .third-card-parent {
+    gap: var(--gap-29xl);
+  }
+  .card-parent {
+    gap: var(--gap-23xl);
+  }
+  .top-reviews-parent-parent {
+    gap: var(--gap-31xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .top7 {
+    font-size: var(--font-size-19xl);
+  }
+  .r6 {
+    font-size: var(--font-size-13xl);
+  }
+  .eviews8 {
+    font-size: var(--font-size-19xl);
+  }
+  .r-group {
+    flex-wrap: wrap;
+  }
+  .from8 {
+    font-size: var(--font-size-19xl);
+  }
+  .tourists8 {
+    font-size: var(--font-size-10xl);
+    line-height: 39px;
+  }
+  .inner-peace-arises6,
+  .museums8,
+  .spiritual6 {
+    font-size: var(--font-size-lgi);
+  }
+  .third-card-parent {
+    gap: var(--gap-5xl);
+  }
+  .card-parent {
+    gap: var(--gap-2xl);
+  }
+  .top-reviews-parent-parent {
+    gap: var(--gap-6xl);
+  }
+}

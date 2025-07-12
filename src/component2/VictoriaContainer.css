@@ -1,0 +1,907 @@
+.victoria-details-child {
+  width: 460px;
+  height: 536px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.victoria-memorial-12,
+.victoria-memorial3 {
+  align-self: stretch;
+  position: relative;
+  z-index: 7;
+}
+.victoria-memorial-12 {
+  height: 207px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.victoria-memorial3 {
+  font-size: var(--font-size-17xl);
+}
+.kolkata-west3 {
+  width: 343px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 7;
+}
+.victoria-location {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-17xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-jacques-francois);
+}
+.ratings-40503 {
+  width: 244px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 7;
+}
+.ratings-row,
+.victoria-title {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ratings-row {
+  width: 406px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.victoria-title {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.visit-now20 {
+  flex: 1;
+  position: relative;
+  z-index: 7;
+}
+.forward-icon21 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 8;
+  margin-left: -41px;
+}
+.visit-button2,
+.visit-content {
+  width: 227px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.visit-button2 {
+  width: 395px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+}
+.victoria-details,
+.victoria-title-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.victoria-title-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-14xl);
+}
+.victoria-details {
+  width: 460px;
+  background-color: var(--color-gray-100);
+  align-items: flex-start;
+  padding: var(--padding-14xl) var(--padding-2xs) var(--padding-30xl)
+    var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-9xl);
+  z-index: 6;
+}
+.madurai-tamil3,
+.meenakshi-temple4 {
+  align-self: stretch;
+  position: relative;
+  z-index: 7;
+}
+.ratings-46504 {
+  flex: 1;
+  position: relative;
+  z-index: 7;
+}
+.meenakshi-ratings {
+  width: 322px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-josefin-slab);
+}
+.meenakshi-details {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.meenakshi-details,
+.meenakshi-info,
+.meenakshi-location {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.meenakshi-location {
+  width: 423px;
+  flex-direction: row;
+  padding: 0 var(--padding-21xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.meenakshi-info {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.visit-now21 {
+  width: 202px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 7;
+}
+.visit-meenakshi {
+  width: 430px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.meenakshi-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 100%;
+  z-index: 6;
+}
+.forward-icon22,
+.minakshi-temple-12 {
+  position: absolute;
+  top: 28px;
+  left: 15px;
+  width: 428px;
+  height: 215px;
+  object-fit: cover;
+  z-index: 7;
+}
+.forward-icon22 {
+  top: 465px;
+  left: 300px;
+  width: 66px;
+  height: 45px;
+  z-index: 8;
+}
+.meenakshi-image {
+  width: 460px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.meenakshi-container,
+.victoria-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.meenakshi-container {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: var(--padding-249xl) 0 var(--padding-9xl) var(--padding-8xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-36xl);
+  font-size: var(--font-size-17xl);
+}
+.victoria-info {
+  position: absolute;
+  top: 586px;
+  left: 687px;
+  width: 484px;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+}
+.m-o-s1,
+.p-l-a2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.m-o-s1 {
+  width: 567px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 7;
+}
+.p-l-a2 {
+  align-self: stretch;
+  z-index: 6;
+}
+.m-o-s-t-parent,
+.place-cards,
+.places-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.place-cards {
+  width: 555px;
+  flex-direction: row;
+  padding: 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.m-o-s-t-parent,
+.places-heading {
+  flex-direction: column;
+}
+.places-heading {
+  align-self: stretch;
+  gap: var(--gap-65xl);
+  color: var(--color-snow-600);
+}
+.m-o-s-t-parent {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 702px;
+  gap: var(--gap-108xl);
+  font-size: var(--font-size-109xl);
+  color: var(--color-lavenderblush);
+  font-family: var(--font-jost);
+}
+.state-names-child {
+  align-self: stretch;
+  width: 512px;
+  position: relative;
+  background-color: var(--color-snow-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.top-states,
+.tripura {
+  width: 69px;
+  position: relative;
+  line-height: 42px;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 12;
+}
+.tripura {
+  width: 295px;
+  line-height: 46px;
+  color: var(--color-gray-1000);
+}
+.state-names,
+.state-names-item {
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.state-names {
+  align-self: stretch;
+  background-color: var(--color-snow-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+  gap: var(--gap-24xl);
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 11;
+}
+.state-names-item {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-snow-300);
+  width: 512px;
+  height: 46px;
+  cursor: pointer;
+  z-index: 12;
+}
+.block,
+.uttar-pradesh {
+  position: absolute;
+  top: 0;
+  left: 139px;
+  line-height: 46px;
+  display: inline-block;
+  width: 295px;
+  height: 46px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 13;
+}
+.block {
+  left: 27px;
+  line-height: 42px;
+  color: var(--color-gray-600);
+  width: 69px;
+  height: 42px;
+}
+.state-names1 {
+  height: 47px;
+  flex-shrink: 0;
+  margin-top: -0.3px;
+  color: var(--color-gray-1000);
+}
+.empty-cell,
+.state-names-inner,
+.state-names1 {
+  align-self: stretch;
+  position: relative;
+}
+.state-names-inner {
+  width: 512px;
+  background-color: var(--color-snow-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.empty-cell {
+  line-height: 42px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 7;
+}
+.empty-cell-wrapper {
+  width: 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.uttarakhand {
+  width: 295px;
+  position: relative;
+  line-height: 46px;
+  color: var(--color-gray-1000);
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 7;
+}
+.state-names2,
+.wrapper4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.state-names2 {
+  align-self: stretch;
+  background-color: var(--color-snow-300);
+  border: 2px solid var(--color-black);
+  flex-direction: row;
+  padding: 0 var(--padding-8xl);
+  gap: var(--gap-24xl);
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 6;
+  margin-top: -0.3px;
+}
+.wrapper4 {
+  width: 69px;
+  flex-direction: column;
+  padding: var(--padding-9xs) 0 0;
+}
+.west-bengal {
+  width: 295px;
+  position: relative;
+  line-height: 46px;
+  color: var(--color-gray-1000);
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 8;
+}
+.state-names3 {
+  align-self: stretch;
+  background-color: var(--color-snow-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl) var(--padding-12xs);
+  gap: var(--gap-24xl);
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 6;
+  margin-top: -0.3px;
+}
+.delhi3,
+.div53 {
+  width: 69px;
+  position: relative;
+  line-height: 42px;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 7;
+}
+.delhi3 {
+  width: 295px;
+  line-height: 46px;
+  color: var(--color-gray-1000);
+  z-index: 9;
+}
+.state-names-child7 {
+  height: 46px;
+  width: 512px;
+  position: relative;
+  background-color: var(--color-snow-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.jammu-and-kashmir {
+  position: relative;
+  line-height: 46px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 7;
+}
+.jammu-and-kashmir-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-gray-1000);
+}
+.state-names9 {
+  align-self: stretch;
+  background-color: var(--color-snow-300);
+  border: 2px solid var(--color-black);
+  flex-direction: row;
+  padding: 0 var(--padding-8xl) var(--padding-12xs);
+  gap: var(--gap-24xl);
+  flex-shrink: 0;
+  z-index: 6;
+  margin-top: -0.3px;
+}
+.state-grid,
+.state-grid-wrapper,
+.state-names9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.state-grid {
+  width: 532px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+}
+.state-grid-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-base);
+  font-family: var(--font-gowun-batang);
+}
+.mysore-karnataka3,
+.mysore-palace3 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 7;
+}
+.mysore-palace3 {
+  width: 354px;
+}
+.mysore-karnataka3 {
+  flex: 1;
+}
+.mysore-location {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.mysore-palace-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-11xs);
+}
+.mysore-details,
+.mysore-palace-parent,
+.mysore-rating-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mysore-rating-row {
+  width: 354px;
+  flex-direction: row;
+  padding: 0 var(--padding-36xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-josefin-slab);
+}
+.mysore-details {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+}
+.forward-icon23 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 8;
+  margin-left: -45px;
+}
+.mysore-button-row,
+.mysore-visit-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.mysore-visit-content {
+  flex: 1;
+  justify-content: flex-start;
+}
+.mysore-button-row {
+  width: 339px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-39xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.location-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  max-width: 100%;
+}
+.place-locations {
+  width: 411px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi);
+}
+.mysore-info,
+.place-locations,
+.place-names {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.place-names {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-lg) var(--padding-23xl)
+    var(--padding-sm);
+  gap: var(--gap-9xl);
+  z-index: 6;
+}
+.mysore-info {
+  width: 510px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-6xl);
+  color: var(--color-black);
+}
+.konark-sun-temple3 {
+  width: 460px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 7;
+}
+.konark-rating,
+.puri-odisha-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.puri-odisha-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  font-family: var(--font-jacques-francois);
+}
+.konark-rating {
+  width: 460px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.konark-sun-temple-group,
+.visit-konark {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.konark-sun-temple-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  max-width: 100%;
+}
+.visit-konark {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-15xl);
+  font-size: var(--font-size-17xl);
+}
+.forward-icon24,
+.konark-sun-temple-13e71cbb6e-1-icon2 {
+  position: absolute;
+  top: 28px;
+  left: 19px;
+  width: 419px;
+  height: 215px;
+  object-fit: cover;
+  z-index: 7;
+}
+.forward-icon24 {
+  top: 465px;
+  left: 314px;
+  width: 66px;
+  height: 45px;
+  z-index: 8;
+}
+.frame-parent95,
+.mysore-info1 {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.mysore-info1 {
+  width: 485px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-256xl) 0 var(--padding-9xl) var(--padding-smi);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-36xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-1500);
+}
+.frame-parent95 {
+  position: absolute;
+  top: 0;
+  left: 1224px;
+  width: 586px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-600);
+}
+.victoria-container {
+  position: absolute;
+  top: 1378px;
+  left: 43px;
+  width: 1810px;
+  height: 1757px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-1500);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 900px) {
+  .victoria-memorial3 {
+    font-size: var(--font-size-10xl);
+  }
+  .kolkata-west3,
+  .ratings-40503 {
+    font-size: var(--font-size-7xl);
+  }
+  .meenakshi-temple4,
+  .visit-now20 {
+    font-size: var(--font-size-10xl);
+  }
+  .madurai-tamil3,
+  .ratings-46504 {
+    font-size: var(--font-size-7xl);
+  }
+  .visit-now21 {
+    font-size: var(--font-size-10xl);
+  }
+  .m-o-s1,
+  .p-l-a2 {
+    font-size: var(--font-size-32xl);
+  }
+  .top-states,
+  .tripura,
+  .uttar-pradesh {
+    font-size: var(--font-size-10xl);
+    line-height: 34px;
+  }
+  .tripura,
+  .uttar-pradesh {
+    line-height: 37px;
+  }
+  .block,
+  .empty-cell,
+  .uttarakhand,
+  .west-bengal {
+    font-size: var(--font-size-10xl);
+    line-height: 34px;
+  }
+  .uttarakhand,
+  .west-bengal {
+    line-height: 37px;
+  }
+  .delhi3,
+  .div53,
+  .jammu-and-kashmir {
+    font-size: var(--font-size-10xl);
+    line-height: 34px;
+  }
+  .delhi3,
+  .jammu-and-kashmir {
+    line-height: 37px;
+  }
+  .state-names9 {
+    flex-wrap: wrap;
+  }
+  .mysore-palace3 {
+    font-size: var(--font-size-10xl);
+  }
+  .mysore-karnataka3 {
+    font-size: var(--font-size-7xl);
+  }
+  .konark-sun-temple3 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .victoria-memorial3 {
+    font-size: var(--font-size-3xl);
+  }
+  .kolkata-west3,
+  .ratings-40503 {
+    font-size: var(--font-size-lgi);
+  }
+  .meenakshi-temple4,
+  .visit-now20 {
+    font-size: var(--font-size-3xl);
+  }
+  .madurai-tamil3,
+  .ratings-46504 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-now21 {
+    font-size: var(--font-size-3xl);
+  }
+  .m-o-s1,
+  .p-l-a2 {
+    font-size: var(--font-size-13xl);
+  }
+  .top-states,
+  .tripura {
+    font-size: var(--font-size-3xl);
+    line-height: 25px;
+  }
+  .tripura {
+    line-height: 28px;
+  }
+  .state-names {
+    flex-wrap: wrap;
+  }
+  .uttar-pradesh {
+    font-size: var(--font-size-3xl);
+    line-height: 28px;
+  }
+  .block,
+  .empty-cell,
+  .uttarakhand {
+    font-size: var(--font-size-3xl);
+    line-height: 25px;
+  }
+  .uttarakhand {
+    line-height: 28px;
+  }
+  .state-names2 {
+    flex-wrap: wrap;
+  }
+  .west-bengal {
+    font-size: var(--font-size-3xl);
+    line-height: 28px;
+  }
+  .state-names3 {
+    flex-wrap: wrap;
+  }
+  .div53 {
+    font-size: var(--font-size-3xl);
+    line-height: 25px;
+  }
+  .delhi3,
+  .jammu-and-kashmir {
+    line-height: 28px;
+  }
+  .delhi3,
+  .jammu-and-kashmir,
+  .mysore-palace3 {
+    font-size: var(--font-size-3xl);
+  }
+  .mysore-karnataka3 {
+    font-size: var(--font-size-lgi);
+  }
+  .konark-sun-temple3 {
+    font-size: var(--font-size-3xl);
+  }
+  .victoria-container {
+    height: auto;
+    min-height: 1757;
+  }
+}

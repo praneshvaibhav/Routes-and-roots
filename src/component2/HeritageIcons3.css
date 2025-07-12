@@ -1,0 +1,90 @@
+.heritage-icons-child1 {
+  width: calc(100% - 12px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 12px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.best-indian-wildlife-photograp-icon {
+  align-self: stretch;
+  height: 347px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.wildlife2 {
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.wildlife-container {
+  width: 256px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl);
+  box-sizing: border-box;
+}
+.natures-treasure {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  z-index: 1;
+}
+.heritage-icons4,
+.nature-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nature-description {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xl);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-hind-vadodara);
+}
+.heritage-icons4 {
+  flex: 0.9789;
+  flex-direction: column;
+  padding: var(--padding-6xl) var(--padding-10xl) var(--padding-21xl)
+    var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-8xs);
+  min-width: 213px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+@media screen and (max-width: 900px) {
+  .wildlife2 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-icons4 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .natures-treasure,
+  .wildlife2 {
+    font-size: var(--font-size-lgi);
+  }
+  .heritage-icons4 {
+    flex: 1;
+  }
+}

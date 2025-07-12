@@ -1,0 +1,322 @@
+.taj-mahal-info-child {
+  width: 460px;
+  height: 536px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.taj-mahal-13,
+.taj-mahal5 {
+  position: relative;
+  z-index: 2;
+}
+.taj-mahal-13 {
+  align-self: stretch;
+  height: 207px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.taj-mahal5 {
+  flex: 1;
+}
+.taj-mahal-name {
+  width: 329px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.agra-uttar4 {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.ratings-47504 {
+  flex: 1;
+  position: relative;
+  z-index: 2;
+}
+.rating8,
+.taj-mahal-location {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rating8 {
+  width: 306px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.taj-mahal-location {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 var(--padding-smi);
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.forward-icon32 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 3;
+  margin-left: -39px;
+}
+.visit-button4,
+.visit-button5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.visit-button5 {
+  width: 229px;
+}
+.visit-button4 {
+  align-self: stretch;
+  padding: 0 var(--padding-33xl);
+}
+.taj-mahal-description1,
+.taj-mahal-name-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.taj-mahal-name-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.taj-mahal-description1 {
+  width: 405px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+}
+.taj-mahal-details,
+.taj-mahal-info1 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.taj-mahal-info1 {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-14xl) var(--padding-base) var(--padding-30xl);
+  gap: var(--gap-2xl);
+  z-index: 1;
+}
+.taj-mahal-details {
+  width: 486px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.delhi6,
+.humayuns-tomb4 {
+  width: 434px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.delhi6 {
+  width: 343px;
+  flex-shrink: 0;
+}
+.delhi5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.ratings-42504 {
+  width: 244px;
+  position: relative;
+  font-family: var(--font-josefin-slab);
+  display: inline-block;
+  z-index: 2;
+}
+.delhi-rating1 {
+  width: 397px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.delhi-rating,
+.humayuns-tomb-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.delhi-rating {
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.humayuns-tomb-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.visit-now33 {
+  width: 202px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.visit-button6 {
+  width: 364px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-placeholder1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.forward-icon33,
+.humayuns-tomb-13 {
+  position: absolute;
+  top: 28px;
+  left: 16px;
+  width: 428px;
+  height: 213px;
+  object-fit: cover;
+  z-index: 2;
+}
+.forward-icon33 {
+  top: 458px;
+  left: 288px;
+  width: 66px;
+  height: 45px;
+  z-index: 3;
+}
+.humayun-tomb-image1 {
+  width: 460px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-parent99,
+.taj-mahal-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent99 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: var(--padding-249xl) 0 var(--padding-16xl) var(--padding-19xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-24xl);
+  color: var(--color-black);
+}
+.taj-mahal-content {
+  width: 505px;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-1500);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 900px) {
+  .taj-mahal5 {
+    font-size: var(--font-size-10xl);
+  }
+  .agra-uttar4,
+  .ratings-47504 {
+    font-size: var(--font-size-7xl);
+  }
+  .taj-mahal-info1 {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .humayuns-tomb4 {
+    font-size: var(--font-size-10xl);
+  }
+  .delhi6,
+  .ratings-42504 {
+    font-size: var(--font-size-7xl);
+  }
+  .visit-now33 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent99 {
+    gap: var(--gap-2xl);
+    padding-top: var(--padding-155xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .taj-mahal-content {
+    gap: var(--gap-30xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .taj-mahal5 {
+    font-size: var(--font-size-3xl);
+  }
+  .agra-uttar4,
+  .ratings-47504 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-button4 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .humayuns-tomb4 {
+    font-size: var(--font-size-3xl);
+  }
+  .delhi6,
+  .ratings-42504 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-now33 {
+    font-size: var(--font-size-3xl);
+  }
+  .taj-mahal-content {
+    gap: var(--gap-6xl);
+  }
+}

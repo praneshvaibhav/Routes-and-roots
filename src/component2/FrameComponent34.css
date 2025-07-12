@@ -1,0 +1,175 @@
+.culture-calender9,
+.destnations9,
+.shop9 {
+  position: absolute;
+  top: 132px;
+  display: inline-block;
+}
+.shop9 {
+  text-decoration: none;
+  left: 706px;
+  line-height: 41px;
+  color: var(--color-mediumorchid-200);
+  width: 91px;
+  height: 41px;
+  min-width: 91px;
+}
+.culture-calender9,
+.destnations9 {
+  left: 846px;
+  width: 227px;
+  height: 47px;
+}
+.culture-calender9 {
+  left: 1111px;
+  width: 307px;
+  cursor: pointer;
+}
+.expand-arrow-icon8 {
+  position: absolute;
+  top: 173px;
+  left: 726px;
+  width: 52px;
+  height: 48px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-child73 {
+  height: 48px;
+  width: 270px;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  display: none;
+  z-index: 0;
+}
+.items9 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 102px;
+  z-index: 1;
+}
+.frame-child74 {
+  width: 1px;
+  height: 49px;
+  position: relative;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.line-wrapper9 {
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.rs009 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 76px;
+  z-index: 1;
+}
+.rs00-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  color: var(--color-mediumorchid-200);
+}
+.shopping-bag-icon2 {
+  height: 49px;
+  width: 63px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -3px;
+  left: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-parent43 {
+  position: absolute;
+  top: 133px;
+  left: 1628px;
+  background-color: var(--color-gainsboro-300);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 var(--padding-52xl);
+  color: var(--color-black);
+}
+.search-bar1 {
+  height: 43px;
+  width: 49px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 21.5px);
+  left: 13px;
+  background-color: var(--color-gainsboro-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.google-web-search2 {
+  height: 67px;
+  width: 76px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.search-bar-parent {
+  position: absolute;
+  top: 125px;
+  left: 1465px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.artist-1-icon {
+  position: absolute;
+  top: 221px;
+  left: 819px;
+  width: 324px;
+  height: 365px;
+  object-fit: cover;
+}
+.frame-parent96 {
+  align-self: stretch;
+  height: 586px;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 850px) {
+  .shop9 {
+    line-height: 33px;
+  }
+  .culture-calender9,
+  .destnations9,
+  .items9,
+  .rs009,
+  .shop9 {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .shop9 {
+    line-height: 25px;
+  }
+  .culture-calender9,
+  .destnations9,
+  .items9,
+  .rs009,
+  .shop9 {
+    font-size: var(--font-size-lgi);
+  }
+}

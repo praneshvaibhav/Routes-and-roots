@@ -1,0 +1,284 @@
+.taj-mahal2 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.agra-uttar-pradesh {
+  width: 311px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+  color: var(--color-black);
+  display: inline-block;
+  z-index: 2;
+  margin-top: -7px;
+}
+.review-details,
+.review-paragraph {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.review-details {
+  flex: 1;
+  flex-direction: column;
+}
+.review-paragraph {
+  width: 366px;
+  flex-direction: row;
+  padding: 0 var(--padding-mini) var(--padding-10xs);
+  box-sizing: border-box;
+  color: var(--color-gray-1000);
+}
+.ratings-46502 {
+  flex: 1;
+  position: relative;
+  line-height: 31px;
+  z-index: 1;
+}
+.review-rating {
+  width: 274px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-1100);
+  font-family: var(--font-josefin-slab);
+}
+.the-taj-mahal {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.review-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs) var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-jacques-francois);
+}
+.other-places-to {
+  align-self: stretch;
+  height: 66px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.destination-divider-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -3px;
+  z-index: 2;
+}
+.mankameshwar-temple {
+  height: 45px;
+  width: 894px;
+  position: absolute;
+  margin: 0 !important;
+  right: -554px;
+  bottom: 9px;
+  display: inline-block;
+  z-index: 1;
+}
+.curved-arrow-icon,
+.curved-arrow-icon1 {
+  width: 49px;
+  height: 45px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.curved-arrow-icon1 {
+  z-index: 1;
+}
+.curved-arrow-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.curved-arrow-group {
+  gap: var(--gap-4xs);
+}
+.curved-arrow-group,
+.frame-parent52,
+.other-destination-link-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent52 {
+  gap: var(--gap-lgi);
+}
+.other-destination-link-inner {
+  padding: var(--padding-4xs) 0 0;
+}
+.agra-fort,
+.mehtab-bagh {
+  align-self: stretch;
+  height: 45px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.mehtab-bagh {
+  z-index: 1;
+}
+.agra-fort-parent {
+  width: 282px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+}
+.fatehpur-sikri {
+  width: 327px;
+  height: 45px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent53 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  min-width: 221px;
+  max-width: 100%;
+}
+.other-destination-link {
+  flex: 1;
+  gap: var(--gap-19xl);
+}
+.other-destination-details,
+.other-destination-link,
+.other-destination-name,
+.other-destinations-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.other-destination-name {
+  flex: 1;
+  position: relative;
+}
+.other-destination-details,
+.other-destinations-list {
+  box-sizing: border-box;
+}
+.other-destination-details {
+  width: 505px;
+  padding: 0 var(--padding-20xl);
+}
+.other-destinations-list {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-mini);
+  margin-top: -10px;
+  font-family: var(--font-amstelvaralpha);
+}
+.other-destinations {
+  width: 557px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.other-destinations,
+.review-content,
+.review-paragraph-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.review-paragraph-parent {
+  width: 830px;
+  gap: var(--gap-7xs);
+}
+.review-content {
+  flex: 1;
+  padding: var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+  min-width: 571px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 900px) {
+  .taj-mahal2 {
+    font-size: var(--font-size-10xl);
+  }
+  .agra-uttar-pradesh,
+  .ratings-46502 {
+    font-size: var(--font-size-7xl);
+  }
+  .ratings-46502 {
+    line-height: 25px;
+  }
+  .agra-fort,
+  .fatehpur-sikri,
+  .mankameshwar-temple,
+  .mehtab-bagh,
+  .other-places-to {
+    font-size: var(--font-size-19xl);
+  }
+  .other-destination-link {
+    flex-wrap: wrap;
+  }
+  .review-content {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .taj-mahal2 {
+    font-size: var(--font-size-3xl);
+  }
+  .agra-uttar-pradesh {
+    font-size: var(--font-size-lgi);
+  }
+  .ratings-46502 {
+    line-height: 19px;
+  }
+  .ratings-46502,
+  .the-taj-mahal {
+    font-size: var(--font-size-lgi);
+  }
+  .agra-fort,
+  .fatehpur-sikri,
+  .mankameshwar-temple,
+  .mehtab-bagh,
+  .other-places-to {
+    font-size: var(--font-size-10xl);
+  }
+  .other-destination-link {
+    gap: var(--gap-lgi);
+  }
+}

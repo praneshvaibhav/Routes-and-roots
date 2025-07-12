@@ -1,0 +1,852 @@
+.frame-child17,
+.p-l-a {
+  position: relative;
+  max-width: 100%;
+}
+.p-l-a {
+  margin: 0;
+  width: 702px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-child17 {
+  width: 460px;
+  height: 536px;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.taj-mahal-1,
+.taj-mahal1 {
+  position: relative;
+  z-index: 2;
+}
+.taj-mahal-1 {
+  align-self: stretch;
+  height: 207px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.taj-mahal1 {
+  flex: 1;
+}
+.taj-mahal-title {
+  width: 329px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.agra-uttar1 {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.ratings-47501 {
+  flex: 1;
+  position: relative;
+  z-index: 2;
+}
+.taj-mahal-description,
+.taj-mahal-rating {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.taj-mahal-rating {
+  width: 306px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.taj-mahal-description {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 var(--padding-smi);
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.forward-icon8 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 3;
+  margin-left: -39px;
+}
+.visit,
+.visit-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.visit {
+  width: 229px;
+}
+.visit-button {
+  align-self: stretch;
+  padding: 0 var(--padding-33xl);
+}
+.taj-mahal-info,
+.taj-mahal-title-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.taj-mahal-title-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.taj-mahal-info {
+  width: 405px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+}
+.frame-wrapper14,
+.rectangle-parent10 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent10 {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-14xl) var(--padding-base) var(--padding-30xl);
+  gap: var(--gap-2xl);
+  z-index: 1;
+}
+.frame-wrapper14 {
+  width: 486px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.delhi1,
+.humayuns-tomb1 {
+  width: 434px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.delhi1 {
+  width: 343px;
+  flex-shrink: 0;
+}
+.humayun-tomb-location {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.ratings-42501 {
+  width: 244px;
+  position: relative;
+  font-family: var(--font-josefin-slab);
+  display: inline-block;
+  z-index: 2;
+}
+.humayun-tomb-info {
+  width: 397px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.humayun-tomb-details,
+.humayuns-tomb-group {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.humayun-tomb-details {
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.humayuns-tomb-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.visit-now7 {
+  width: 202px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.humayun-tomb-visit {
+  width: 364px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.humayun-tomb-placeholder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.forward-icon9,
+.humayuns-tomb-1 {
+  position: absolute;
+  top: 28px;
+  left: 16px;
+  width: 428px;
+  height: 213px;
+  object-fit: cover;
+  z-index: 2;
+}
+.forward-icon9 {
+  top: 458px;
+  left: 288px;
+  width: 66px;
+  height: 45px;
+  z-index: 3;
+}
+.humayun-tomb-image {
+  width: 460px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-parent31,
+.frame-parent32 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent32 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: var(--padding-249xl) 0 var(--padding-16xl) var(--padding-19xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-24xl);
+  color: var(--color-black);
+}
+.frame-parent31 {
+  width: 505px;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+}
+.victoria-memorial-1,
+.victoria-memorial1 {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.victoria-memorial-1 {
+  height: 207px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.victoria-memorial1 {
+  font-size: var(--font-size-17xl);
+}
+.victoria-memorial-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-17xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-jacques-francois);
+}
+.ratings-40501 {
+  width: 244px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.victoria-memorial-rating {
+  width: 406px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-josefin-slab);
+}
+.victoria-memorial-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  max-width: 100%;
+}
+.forward-icon10 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 3;
+  margin-left: -41px;
+}
+.victoria-memorial-button,
+.victoria-memorial-visit {
+  width: 227px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.victoria-memorial-visit {
+  width: 395px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+}
+.rectangle-parent11,
+.victoria-memorial-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.victoria-memorial-info {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-14xl);
+}
+.rectangle-parent11 {
+  width: 460px;
+  background-color: var(--color-gray-100);
+  align-items: flex-start;
+  padding: var(--padding-14xl) var(--padding-2xs) var(--padding-30xl)
+    var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-9xl);
+  z-index: 1;
+}
+.meenakshi-temple2 {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.meenakshi-temple-info,
+.meenakshi-temple-rating {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.meenakshi-temple-rating {
+  width: 322px;
+  flex-direction: row;
+  padding: 0 var(--padding-20xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.meenakshi-temple-info {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.meenakshi-temple-details,
+.meenakshi-temple-visit {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.meenakshi-temple-details {
+  width: 423px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-21xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.meenakshi-temple-visit {
+  width: 430px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.forward-icon11,
+.minakshi-temple-1 {
+  position: absolute;
+  top: 28px;
+  left: 15px;
+  width: 428px;
+  height: 215px;
+  object-fit: cover;
+  z-index: 2;
+}
+.forward-icon11 {
+  top: 465px;
+  left: 300px;
+  width: 66px;
+  height: 45px;
+  z-index: 3;
+}
+.frame-parent33,
+.frame-parent34 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent34 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: var(--padding-249xl) 0 var(--padding-9xl) var(--padding-8xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-36xl);
+  font-size: var(--font-size-17xl);
+}
+.frame-parent33 {
+  width: 484px;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+  font-size: var(--font-size-13xl);
+}
+.mysore-karnataka1,
+.mysore-palace1 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.mysore-palace1 {
+  width: 354px;
+}
+.mysore-karnataka1 {
+  flex: 1;
+}
+.mysore-palace-address {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-jacques-francois);
+}
+.mysore-palace-title {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-11xs);
+}
+.mysore-palace-rating,
+.mysore-palace-title,
+.mysore-palace-title-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mysore-palace-rating {
+  width: 354px;
+  flex-direction: row;
+  padding: 0 var(--padding-36xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-josefin-slab);
+}
+.mysore-palace-title-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+}
+.forward-icon12 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 45px;
+  z-index: 3;
+  margin-left: -45px;
+}
+.mysore-palace-button,
+.mysore-palace-visit {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.mysore-palace-button {
+  flex: 1;
+  justify-content: flex-start;
+}
+.mysore-palace-visit {
+  width: 339px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-39xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent36 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  max-width: 100%;
+}
+.mysore-palace-info,
+.rectangle-parent12 {
+  width: 411px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent12 {
+  width: 460px;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-lg) var(--padding-23xl)
+    var(--padding-sm);
+  gap: var(--gap-9xl);
+  z-index: 1;
+}
+.konark-sun-temple1 {
+  width: 460px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.konark-sun-temple-details,
+.konark-sun-temple-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.konark-sun-temple-details {
+  align-self: stretch;
+  justify-content: flex-end;
+  font-family: var(--font-jacques-francois);
+}
+.konark-sun-temple-rating {
+  width: 460px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-family: var(--font-josefin-slab);
+}
+.konark-sun-temple-parent,
+.konark-sun-temple-visit {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.konark-sun-temple-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  max-width: 100%;
+}
+.konark-sun-temple-visit {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-15xl);
+  font-size: var(--font-size-17xl);
+}
+.forward-icon13,
+.konark-sun-temple-13e71cbb6e-1-icon {
+  position: absolute;
+  top: 28px;
+  left: 19px;
+  width: 419px;
+  height: 215px;
+  object-fit: cover;
+  z-index: 2;
+}
+.forward-icon13 {
+  top: 465px;
+  left: 314px;
+  width: 66px;
+  height: 45px;
+  z-index: 3;
+}
+.frame-parent37 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-256xl) 0 var(--padding-9xl) var(--padding-smi);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-36xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-1500);
+}
+.frame-parent30,
+.frame-parent35,
+.frame-parent37 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent35 {
+  width: 485px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+  color: var(--color-black);
+}
+.frame-parent30 {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.places {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-1500);
+  font-family: var(--font-headlandone);
+}
+.p-l-a-c-e-s-parent,
+.places,
+.places-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.p-l-a-c-e-s-parent {
+  width: 1810px;
+  flex-direction: column;
+  gap: var(--gap-65xl);
+}
+.places-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-24xl) var(--padding-351xl-5);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-snow-600);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 1725px) {
+  .frame-parent30 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .places-container {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    padding-bottom: var(--padding-138xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .p-l-a {
+    font-size: var(--font-size-32xl);
+  }
+  .taj-mahal1 {
+    font-size: var(--font-size-10xl);
+  }
+  .agra-uttar1,
+  .ratings-47501 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent10 {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .humayuns-tomb1 {
+    font-size: var(--font-size-10xl);
+  }
+  .delhi1,
+  .ratings-42501 {
+    font-size: var(--font-size-7xl);
+  }
+  .visit-now7 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent32 {
+    gap: var(--gap-2xl);
+    padding-top: var(--padding-155xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .frame-parent31 {
+    gap: var(--gap-30xl);
+  }
+  .victoria-memorial1 {
+    font-size: var(--font-size-10xl);
+  }
+  .ratings-40501 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent11 {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .meenakshi-temple2 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent34 {
+    gap: var(--gap-8xl);
+    padding-top: var(--padding-155xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent33 {
+    gap: var(--gap-30xl);
+  }
+  .mysore-palace1 {
+    font-size: var(--font-size-10xl);
+  }
+  .mysore-karnataka1 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent12 {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .konark-sun-temple1 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent37 {
+    gap: var(--gap-8xl);
+    padding-top: var(--padding-160xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent35 {
+    gap: var(--gap-30xl);
+  }
+  .p-l-a-c-e-s-parent {
+    gap: var(--gap-23xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .p-l-a {
+    font-size: var(--font-size-13xl);
+  }
+  .taj-mahal1 {
+    font-size: var(--font-size-3xl);
+  }
+  .agra-uttar1,
+  .ratings-47501 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-button {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .humayuns-tomb1 {
+    font-size: var(--font-size-3xl);
+  }
+  .delhi1,
+  .ratings-42501 {
+    font-size: var(--font-size-lgi);
+  }
+  .visit-now7 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent31 {
+    gap: var(--gap-6xl);
+  }
+  .victoria-memorial1 {
+    font-size: var(--font-size-3xl);
+  }
+  .ratings-40501 {
+    font-size: var(--font-size-lgi);
+  }
+  .victoria-memorial-info {
+    gap: var(--gap-base);
+  }
+  .meenakshi-temple2,
+  .mysore-palace1 {
+    font-size: var(--font-size-3xl);
+  }
+  .mysore-karnataka1 {
+    font-size: var(--font-size-lgi);
+  }
+  .mysore-palace-rating,
+  .mysore-palace-visit {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent36 {
+    gap: var(--gap-base);
+  }
+  .konark-sun-temple1 {
+    font-size: var(--font-size-3xl);
+  }
+  .p-l-a-c-e-s-parent {
+    gap: var(--gap-2xl);
+  }
+  .places-container {
+    padding-bottom: var(--padding-83xl);
+    box-sizing: border-box;
+  }
+}

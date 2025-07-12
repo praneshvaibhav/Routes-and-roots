@@ -1,0 +1,403 @@
+.first-half,
+.thursday-elements-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.first-half {
+  width: 252px;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+}
+.thursday-elements-wrapper {
+  width: 297px;
+}
+.friday-elements-child {
+  width: 236px;
+  height: 245px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  z-index: 1;
+}
+.placeholder5 {
+  height: 103px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.placeholder-frame {
+  width: 161px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-45xl);
+}
+.hartalika-teej1 {
+  width: 182px;
+  height: 46px;
+  position: absolute;
+  margin: 0 !important;
+  right: 24px;
+  bottom: 26px;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-child31 {
+  height: 1px;
+  width: 137px;
+  position: relative;
+  object-fit: contain;
+  z-index: 2;
+}
+.line-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+}
+.text1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 2;
+}
+.frame-parent44 {
+  align-self: stretch;
+  height: 66px;
+  gap: var(--gap-lgi);
+  margin-top: -12px;
+}
+.frame-parent44,
+.friday-elements,
+.friday-elements-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.friday-elements {
+  width: 236px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  padding: var(--padding-8xs) var(--padding-4xl) var(--padding-5xl)
+    var(--padding-10xl);
+  position: relative;
+}
+.friday-elements-wrapper {
+  width: 289px;
+}
+.weekdays {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-child33 {
+  width: 137px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 91px;
+  left: 42px;
+  object-fit: contain;
+  z-index: 6;
+}
+.placeholder6 {
+  height: 103px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 8;
+}
+.placeholder-wrapper1,
+.rectangle-parent18,
+.weekdays-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.placeholder-wrapper1 {
+  width: 161px;
+  flex-direction: row;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+}
+.rectangle-parent18,
+.weekdays-inner {
+  flex-direction: column;
+}
+.rectangle-parent18 {
+  align-self: stretch;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  padding: var(--padding-8xs) var(--padding-4xl) var(--padding-5xl)
+    var(--padding-10xl);
+  position: relative;
+  z-index: 5;
+}
+.weekdays-inner {
+  width: 253px;
+  padding: 0 var(--padding-mid) 0 0;
+  box-sizing: border-box;
+}
+.frame-child34 {
+  width: 236px;
+  height: 245px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  z-index: 0;
+}
+.frame-child35 {
+  width: 137px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 91px;
+  left: 42px;
+  object-fit: contain;
+  z-index: 1;
+}
+.tuesday-placeholder {
+  width: 151px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-13xl);
+  box-sizing: border-box;
+}
+.placeholder8 {
+  height: 103px;
+  width: 87px;
+  position: absolute;
+  margin: 0 !important;
+  top: -91px;
+  left: 32px;
+  display: inline-block;
+  z-index: 1;
+}
+.tuesday3 {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  z-index: 2;
+}
+.placeholder-container1 {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  margin-top: -12px;
+}
+.frame-wrapper16,
+.placeholder-container1,
+.tuesday-placeholder-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tuesday-placeholder-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper16 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.vishwakarma-puja {
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 23.2px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.placeholder-wrapper2,
+.rectangle-parent19,
+.weekdays-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent19 {
+  width: 236px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  padding: var(--padding-8xs) var(--padding-4xl) var(--padding-5xl)
+    var(--padding-10xl);
+  position: relative;
+  gap: var(--gap-xl);
+}
+.placeholder-wrapper2,
+.weekdays-child {
+  width: 302px;
+}
+.placeholder-wrapper2 {
+  width: 191px;
+  flex-direction: row;
+  padding: 0 var(--padding-33xl);
+  box-sizing: border-box;
+}
+.div50 {
+  height: 103px;
+  width: 87px;
+  position: absolute;
+  margin: 0 !important;
+  top: -91px;
+  left: 52px;
+  display: inline-block;
+  z-index: 1;
+}
+.line-wrapper5,
+.parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.parent {
+  align-self: stretch;
+  position: relative;
+}
+.line-wrapper5 {
+  padding: 0 var(--padding-8xl);
+}
+.pitru-paksha2 {
+  height: 46px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.pitru-paksha1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mid) 0 var(--padding-mini);
+  font-size: var(--font-size-xl);
+}
+.frame-parent45 {
+  align-self: stretch;
+  gap: var(--gap-xl);
+  margin-top: -12px;
+}
+.frame-parent45,
+.rectangle-parent20,
+.weekdays-inner1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent20 {
+  width: 236px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-snow-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  padding: var(--padding-8xs) var(--padding-8xs) var(--padding-5xl)
+    var(--padding-mini);
+  position: relative;
+}
+.weekdays-inner1 {
+  width: 283px;
+}
+.week-container1,
+.weekdays1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-45xl);
+}
+.week-container1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+  gap: var(--gap-62xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 1525px) {
+  .weekdays,
+  .weekdays1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 850px) {
+  .placeholder5,
+  .placeholder6,
+  .placeholder8 {
+    font-size: var(--font-size-32xl);
+  }
+  .tuesday3 {
+    font-size: var(--font-size-10xl);
+  }
+  .div50 {
+    font-size: var(--font-size-32xl);
+  }
+  .week-container1 {
+    gap: var(--gap-21xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .placeholder5 {
+    font-size: var(--font-size-19xl);
+  }
+  .hartalika-teej1,
+  .text1 {
+    font-size: var(--font-size-base);
+  }
+  .placeholder6,
+  .placeholder8 {
+    font-size: var(--font-size-19xl);
+  }
+  .tuesday3 {
+    font-size: var(--font-size-3xl);
+  }
+  .vishwakarma-puja {
+    font-size: var(--font-size-base);
+  }
+  .div50 {
+    font-size: var(--font-size-19xl);
+  }
+  .pitru-paksha2 {
+    font-size: var(--font-size-base);
+  }
+  .week-container1 {
+    gap: var(--gap-xl);
+  }
+}

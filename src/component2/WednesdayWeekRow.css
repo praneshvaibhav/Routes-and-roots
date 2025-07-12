@@ -1,0 +1,81 @@
+.sunday49,
+.sunday50 {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.sunday50 {
+  z-index: 4;
+  margin-left: -177px;
+}
+.sunday-cells {
+  width: 177px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wednesday-separator-icon {
+  height: 1px;
+  width: 137px;
+  position: relative;
+  object-fit: contain;
+  z-index: 2;
+}
+.wednesday-separator-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-14xl) 0 var(--padding-xs);
+}
+.ganesh-chaturthi46,
+.ganesh-chaturthi47 {
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  line-height: 23.2px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.ganesh-chaturthi47 {
+  z-index: 2;
+  margin-top: -46px;
+}
+.chaturthi-row,
+.wednesday-week-row {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+}
+.wednesday-week-row {
+  align-items: flex-end;
+  gap: var(--gap-xl);
+  margin-top: -12px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-headlandone);
+}
+@media screen and (max-width: 925px) {
+  .sunday49,
+  .sunday50 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .sunday49,
+  .sunday50 {
+    font-size: var(--font-size-3xl);
+  }
+  .ganesh-chaturthi46,
+  .ganesh-chaturthi47 {
+    font-size: var(--font-size-base);
+  }
+}

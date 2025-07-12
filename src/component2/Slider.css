@@ -1,0 +1,130 @@
+.previous-button1 {
+  height: 88px;
+  width: calc(100% - 5px);
+  position: absolute;
+  margin: 0 !important;
+  right: 5px;
+  bottom: -4px;
+  left: 0;
+  background-color: var(--color-gainsboro-300);
+  cursor: pointer;
+}
+.back-icon3 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.navigation-buttons2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-249xl) 0 0;
+}
+.tajmahal-2-12 {
+  height: 633px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 903px;
+  z-index: 6;
+}
+.image-container3,
+.slide {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-container3 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-17xl);
+}
+.slide {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+  min-width: 985px;
+}
+.multiplication-icon11 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  object-fit: cover;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-13xl);
+}
+.previous {
+  height: 88px;
+  width: calc(100% - 5px);
+  position: absolute;
+  margin: 0 !important;
+  right: 3px;
+  bottom: 0;
+  left: 2px;
+  background-color: var(--color-gainsboro-300);
+  cursor: pointer;
+}
+.footer6,
+.navigation-controls,
+.slider {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation-controls {
+  flex-direction: row;
+  position: relative;
+}
+.footer6,
+.slider {
+  flex-direction: column;
+  gap: var(--gap-174xl);
+}
+.slider {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: var(--gap-49xl);
+  max-width: 100%;
+}
+@media screen and (max-width: 1500px) {
+  .image-container3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .slide,
+  .tajmahal-2-12 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 850px) {
+  .image-container3 {
+    gap: var(--gap-lg);
+  }
+  .slider {
+    gap: var(--gap-15xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .navigation-buttons2 {
+    padding-top: var(--padding-155xl);
+    box-sizing: border-box;
+  }
+  .slider {
+    gap: var(--gap-mid);
+  }
+}

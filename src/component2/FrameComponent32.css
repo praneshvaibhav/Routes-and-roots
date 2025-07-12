@@ -1,0 +1,88 @@
+.indias-heritage-is {
+  margin: 0;
+  font-weight: 300;
+}
+.architectural-heritage {
+  font-family: var(--font-homemade-apple);
+}
+.architectural-heritage-one-o {
+  margin: 0;
+}
+.indias-literary-heritage {
+  font-weight: 300;
+}
+.indias-heritage-is-container {
+  height: 1390px;
+  width: 1667px;
+  position: absolute;
+  margin: 0 !important;
+  top: -1188px;
+  right: 121px;
+  display: inline-block;
+  z-index: 1;
+}
+.indias-heritage-is-a-vast-and-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.copyright-2024-rootsroutes5 {
+  width: 705px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 114%;
+  z-index: 3;
+}
+.copyright-all-rights-reserved16 {
+  height: 44px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+  margin-left: -546px;
+}
+.copyright-2024-rootsroutes-container {
+  width: 639px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -68px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-hanuman);
+}
+.frame-parent69 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  min-height: 499px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-hind-vadodara);
+}
+@media screen and (max-width: 850px) {
+  .copyright-2024-rootsroutes5 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .indias-heritage-is-container {
+    font-size: var(--font-size-lgi);
+  }
+  .copyright-2024-rootsroutes5 {
+    font-size: var(--font-size-3xl);
+  }
+}

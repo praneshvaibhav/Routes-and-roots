@@ -1,0 +1,378 @@
+.image-icon {
+  height: 187px;
+  width: 194px;
+  position: absolute;
+  margin: 0 !important;
+  top: -99px;
+  right: 17px;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.name-child {
+  width: 449px;
+  height: 608px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.cameron-williamson1,
+.separator1 {
+  position: relative;
+  z-index: 1;
+}
+.separator1 {
+  height: 2px;
+  flex: 1;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.cameron-williamson-group,
+.separator-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.separator-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-20xl) 0 var(--padding-23xl);
+}
+.cameron-williamson-group {
+  width: 375px;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.visiting-taj-mahal1 {
+  margin: 0;
+}
+.visiting-taj-mahal-container1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.comment,
+.name3 {
+  box-sizing: border-box;
+}
+.comment {
+  width: 375px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  max-width: 100%;
+}
+.name3 {
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  flex-direction: column;
+  padding: var(--padding-88xl) var(--padding-mid) var(--padding-7xl);
+  gap: var(--gap-46xl);
+}
+.details4,
+.name3,
+.profile1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.profile1 {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.details4 {
+  width: 449px;
+  flex-direction: column;
+  padding: var(--padding-80xl) 0 0;
+  box-sizing: border-box;
+}
+.avatar-icon {
+  height: 187px;
+  width: 194px;
+  position: absolute;
+  margin: 0 !important;
+  top: -94px;
+  right: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.dianne-russell1 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.name4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-8xs) 0 var(--padding-mini);
+}
+.content-inner,
+.name-group,
+.name4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.name-group {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-12xl);
+}
+.content-inner {
+  width: 404px;
+  flex-direction: row;
+  padding: 0 var(--padding-37xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.i-visited-india {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.content6,
+.testimonial1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.content6 {
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  padding: var(--padding-86xl) 0 var(--padding-mid) var(--padding-lg);
+  gap: var(--gap-55xl);
+}
+.testimonial1 {
+  width: 466px;
+  padding: var(--padding-80xl) var(--padding-mid) 0 0;
+}
+.avatar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.account-icon1 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  width: 142px;
+  height: 170px;
+  object-fit: cover;
+  z-index: 2;
+}
+.avatar-group {
+  height: 187px;
+  flex: 1;
+  position: relative;
+}
+.details-inner {
+  position: absolute;
+  top: 0;
+  left: 255px;
+  width: 194px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-in13 {
+  width: 166px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.sign-in12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-30xl);
+}
+.buttons-child {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.buttons1 {
+  width: 292px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.add-yours1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.actions,
+.add {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.add {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+  font-size: var(--font-size-29xl);
+}
+.actions {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  width: 100%;
+  flex-direction: column;
+  padding: var(--padding-96xl) var(--padding-lgi) var(--padding-218xl)
+    var(--padding-57xl);
+  gap: var(--gap-81xl);
+  min-height: 608px;
+}
+.details5 {
+  height: 707px;
+  width: 449px;
+  position: relative;
+  max-width: 100%;
+}
+.user {
+  width: 1674px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1625px) {
+  .user {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .cameron-williamson1,
+  .visiting-taj-mahal-container1 {
+    font-size: var(--font-size-10xl);
+  }
+  .details4,
+  .name3 {
+    box-sizing: border-box;
+  }
+  .name3 {
+    padding-top: var(--padding-51xl);
+    padding-bottom: var(--padding-xl);
+  }
+  .details4 {
+    padding-top: var(--padding-45xl);
+  }
+  .dianne-russell1,
+  .i-visited-india {
+    font-size: var(--font-size-10xl);
+  }
+  .content6 {
+    padding-top: var(--padding-49xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .testimonial1 {
+    padding-top: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .sign-in13 {
+    font-size: var(--font-size-10xl);
+  }
+  .add-yours1 {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .cameron-williamson1 {
+    font-size: var(--font-size-3xl);
+  }
+  .separator-wrapper {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .visiting-taj-mahal-container1 {
+    font-size: var(--font-size-3xl);
+  }
+  .name3 {
+    gap: var(--gap-13xl);
+  }
+  .dianne-russell1 {
+    font-size: var(--font-size-3xl);
+  }
+  .name-group {
+    gap: var(--gap-mini);
+  }
+  .content-inner {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .i-visited-india {
+    font-size: var(--font-size-3xl);
+  }
+  .content6 {
+    gap: var(--gap-18xl);
+  }
+  .sign-in13 {
+    font-size: var(--font-size-3xl);
+  }
+  .sign-in12 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .add-yours1 {
+    font-size: var(--font-size-10xl);
+  }
+  .actions {
+    gap: var(--gap-31xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

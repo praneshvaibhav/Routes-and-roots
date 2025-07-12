@@ -1,0 +1,323 @@
+.frame-child61 {
+  width: 1920px;
+  height: 499px;
+  position: relative;
+  background-color: var(--color-mediumorchid-200);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.about-us22 {
+  flex-shrink: 0;
+}
+.about-us22,
+.faqs16 {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.about-us-links {
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.e-visa16 {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 2;
+}
+.about-us-links1 {
+  width: 262px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.terms-condition16 {
+  width: 354px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.links-column-wrapper,
+.links-column3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.links-column3 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.links-column-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.privacy-policy16 {
+  width: 275px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.complain-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.connect-with-us16 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.connect-with-us-wrapper {
+  width: 361px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.facebook-icon8 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.facebook-wrapper,
+.twitterx-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-lgi) 0 0;
+}
+.twitterx-wrapper {
+  padding: var(--padding-3xs) 0 0;
+}
+.instagram-icon17 {
+  height: 109px;
+  width: 96px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-parent86 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent85 {
+  width: 401px;
+  gap: var(--gap-mid);
+  max-width: 100%;
+}
+.careers-wrapper,
+.frame-parent84,
+.frame-parent85 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent84 {
+  width: 695px;
+  gap: var(--gap-48xl);
+  max-width: 100%;
+}
+.careers-wrapper {
+  width: 320px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.help-center16 {
+  width: 269px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-parent83 {
+  width: 1654px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.museums-in-india {
+  margin: 0;
+  font-weight: 300;
+}
+.historical-museums {
+  font-family: var(--font-homemade-apple);
+}
+.historical-museumsone-of-the {
+  margin: 0;
+}
+.indias-art-museums {
+  font-weight: 300;
+}
+.museums-in-india-container {
+  width: 1317px;
+  height: 1296px;
+  position: absolute;
+  margin: 0 !important;
+  top: -1266px;
+  right: 228px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  z-index: 2;
+  font-family: var(--font-hind-vadodara);
+}
+.rectangle-parent35 {
+  align-self: stretch;
+  background-color: var(--color-mediumorchid-200);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-56xl) var(--padding-8xl) 0 var(--padding-135xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-53xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.copyright-2024-rootsroutes7 {
+  width: 705px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 114%;
+  z-index: 2;
+}
+.copyright-all-rights-reserved18 {
+  height: 44px;
+  width: 71px;
+  position: relative;
+  object-fit: cover;
+  z-index: 3;
+  margin-left: -546px;
+}
+.copyright-2024-rootsroutes-parent2,
+.frame-parent82 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.copyright-2024-rootsroutes-parent2 {
+  width: 639px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  margin-top: -68px;
+}
+.frame-parent82 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  min-height: 499px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-hanuman);
+}
+@media screen and (max-width: 1500px) {
+  .frame-parent83,
+  .links-column3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .rectangle-parent35 {
+    gap: var(--gap-17xl);
+    padding-left: var(--padding-58xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .about-us22,
+  .e-visa16,
+  .faqs16,
+  .privacy-policy16,
+  .terms-condition16 {
+    font-size: var(--font-size-10xl);
+  }
+  .complain-group {
+    flex-wrap: wrap;
+  }
+  .connect-with-us16 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent84 {
+    gap: var(--gap-14xl);
+  }
+  .help-center16 {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-parent35 {
+    gap: var(--gap-lg);
+    padding-left: var(--padding-19xl);
+    padding-top: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .copyright-2024-rootsroutes7 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us22,
+  .connect-with-us16,
+  .e-visa16,
+  .faqs16,
+  .privacy-policy16,
+  .terms-condition16 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent86 {
+    flex-wrap: wrap;
+  }
+  .frame-parent84 {
+    gap: var(--gap-mid);
+  }
+  .help-center16 {
+    font-size: var(--font-size-3xl);
+  }
+  .museums-in-india-container {
+    font-size: var(--font-size-lgi);
+  }
+  .copyright-2024-rootsroutes7 {
+    font-size: var(--font-size-3xl);
+  }
+}

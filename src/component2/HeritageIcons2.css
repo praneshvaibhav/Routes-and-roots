@@ -1,0 +1,99 @@
+.heritage-icons-inner {
+  width: calc(100% - 13px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 13px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-1600);
+  cursor: pointer;
+}
+.indian-art-1 {
+  height: 347px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.indian-art-1-wrapper {
+  width: 255px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.art2 {
+  height: 60px;
+  width: 81px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.art-container {
+  width: 251px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.creative-expression {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  font-family: var(--font-hind-vadodara);
+  z-index: 2;
+  margin-top: -9px;
+}
+.frame-parent98,
+.heritage-icons3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent98 {
+  align-self: stretch;
+}
+.heritage-icons3 {
+  flex: 0.9439;
+  padding: var(--padding-6xl) var(--padding-10xl) var(--padding-13xl)
+    var(--padding-11xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-lg);
+  min-width: 213px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-halant);
+}
+@media screen and (max-width: 900px) {
+  .art2 {
+    font-size: var(--font-size-7xl);
+  }
+  .heritage-icons3 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .art2,
+  .creative-expression {
+    font-size: var(--font-size-lgi);
+  }
+  .heritage-icons3 {
+    flex: 1;
+  }
+}
