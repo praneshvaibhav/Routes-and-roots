@@ -26,7 +26,7 @@
 
 ## 📸 Screenshots
 
-![Homepage](./screenshots/Screenshot(556).png)
+![Homepage](./screenshots/Screenshot(356).png)
 
 
 ---
